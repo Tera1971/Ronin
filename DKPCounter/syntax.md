@@ -49,7 +49,6 @@ Player aliases are aliases that can be used instead of entering the players enti
 This example would award the points to "sasuke579" instead of "sasuke" since it is on the list of aliases.
 
 ### Boss Names and Aliases
-* **155**: 155, spider, spidey, ulrob
 * **160**: 160, priest
 * **165**: 165, king
 * **170**: 170, sreng, bolg
@@ -64,11 +63,12 @@ This example would award the points to "sasuke579" instead of "sasuke" since it 
 * **Hrungnir**: hrungnir, hrung, hippo
 * **Mordris**: mordris, mordy, mordi
 * **Efnisien**: efnisien, efni, necromancer, necro
-* **Proteus Base**: proteusbase, proteus_base, protb, base, prot, proteus
+* **Proteus Base**: proteusbase, proteus_base, protb, base
 * **Proteus Prime**: proteusprime, proteus_prime, protp, prime
 * **Gelebron**: gelebron, gele, gel
 * **Bloodthorn**: bloodthorn, bt, blood, thorn
 * **Dhiothu**: dhiothu, dhio, dino
 * **Factions**: factions, faction, lich, reaver
 * **Ring Boss**: ringboss, ring_boss, rb, rbs, ring
+* **Bloodthorn Root (5)**: bloodthornroot, bloodthorn_root, btroot, root
 * **Legacy 180+**: legacy180, legacy_180, natan, athatch, garanak, gara, urchaid, maelstrom, whirlwinds, whirlwind, smolach, annihilator, skain, osan, blight, tomb
