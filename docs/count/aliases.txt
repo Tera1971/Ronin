@@ -3,7 +3,7 @@
 0Zeus0,Zeus
 1Eleven1,11
 5inch,inch
-Accord
+Accord,Acc
 Adam09,Adam
 Aetna
 Ajentj,aj
@@ -39,7 +39,7 @@ Buffy
 Buj4nski
 Butcher629,butch
 Buttermybuns
-Cammybearpea,cammy,cbp
+Cammybearpea,cam,cams,cammy,cbp
 ChaosWarriors
 Charlesr9
 CheeksMcGee
