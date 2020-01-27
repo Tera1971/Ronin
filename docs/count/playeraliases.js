@@ -14,7 +14,6 @@ function loadAliases(text) {
 
 function getPlayerFromAlias(aliasInput) {
 	for (let [player, aliases] of playerMap) {
-		//let aliases = playerMap.get(player);
 		if(player == aliasInput) {
 			return player
 		}

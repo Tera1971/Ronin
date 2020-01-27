@@ -5,45 +5,45 @@ const Boss = {
         aliases: ["155", "spider", "spidey", "ulrob"],
         points: {
             camp: 0,
-            kill4: 2,
-            kill5: 5,
-            kill6: 10,
+            kill4: 5,
+            kill5: 10,
+            kill6: 20,
         }
     },
     DL_160: {
         aliases: ["160", "priest"],
         points: {
             camp: 0,
-            kill4: 2,
-            kill5: 5,
-            kill6: 10,
+            kill4: 5,
+            kill5: 10,
+            kill6: 20,
         }
     },
     DL_165: {
         aliases: ["165", "king"],
         points: {
             camp: 0,
-            kill4: 2,
-            kill5: 5,
-            kill6: 10,
+            kill4: 5,
+            kill5: 10,
+            kill6: 20,
         }
     },
     DL_170: {
         aliases: ["170", "sreng", "bolg"],
         points: {
-            camp: 5,
-            kill4: 2,
-            kill5: 5,
-            kill6: 10,
+            camp: 0,
+            kill4: 5,
+            kill5: 15,
+            kill6: 45,
         }
     },
     DL_180: {
         aliases: ["180", "snorri", "snor", "snorr", "troll"],
         points: {
-            camp: 5,
-            kill4: 2,
-            kill5: 5,
-            kill6: 10,
+            camp: 0,
+            kill4: 5,
+            kill5: 15,
+            kill6: 45,
         }
     },
 
@@ -54,7 +54,7 @@ const Boss = {
             camp: 0,
             kill4: 5,
             kill5: 10,
-            kill6: 15,
+            kill6: 20,
         }
     },
     EDL_190: {
@@ -62,7 +62,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
+            kill5: 10,
             kill6: 20,
         }
     },
@@ -71,7 +71,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
+            kill5: 10,
             kill6: 20,
         }
     },
@@ -80,7 +80,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
+            kill5: 10,
             kill6: 20,
         }
     },
@@ -89,26 +89,26 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 10,
-            kill6: 15,
+            kill5: 15,
+            kill6: 45,
         }
     },
     EDL_210: {
         aliases: ["210", "revenant", "anguish"],
         points: {
-            camp: 10,
+            camp: 0,
             kill4: 5,
             kill5: 15,
-            kill6: 20,
+            kill6: 45,
         }
     },
     EDL_215: {
         aliases: ["215", "unox", "eye"],
         points: {
-            camp: 10,
+            camp: 0,
             kill4: 5,
             kill5: 15,
-            kill6: 20,
+            kill6: 45,
         }
     },
 
@@ -119,7 +119,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 10,
+            kill6: 0,
         }
     },
     HRUNGNIR: {
@@ -128,7 +128,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 20,
+            kill6: 30,
         }
     },
     MORDRIS: {
@@ -137,7 +137,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 35,
+            kill6: 60,
         }
     },
     EFNISIEN: {
@@ -146,26 +146,26 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 40,
+            kill6: 60,
         }
     },
 
     PROTEUS_BASE: {
-        aliases: ["proteusbase", "proteus_base", "protb", "base"],
+        aliases: ["proteusbase", "proteus_base", "protb", "base", "prot", "proteus"],
         points: {
-            camp: 5,
+            camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 60,
+            kill6: 100,
         }
     },
     PROTEUS_PRIME: {
         aliases: ["proteusprime", "proteus_prime", "protp", "prime"],
         points: {
-            camp: 5,
+            camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 80,
+            kill6: 100,
         }
     },
     GELEBRON: {
@@ -174,7 +174,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 100,
+            kill6: 200,
         }
     },
     BLOODTHORN: {
@@ -183,7 +183,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 150,
+            kill6: 200,
         }
     },
     DHIOTHU: {
@@ -201,8 +201,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 10,
-            kill6: 40,
+            kill5: 20,
+            kill6: 30,
         }
     },
     FACTIONS: {
@@ -211,7 +211,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 30,
+            kill6: 20,
         }
     },
     BLOODTHORN_ROOT: {
@@ -219,7 +219,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 10,
+            kill5: 0,
             kill6: 0,
         }
     },
@@ -230,8 +230,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 5,
-            kill6: 10,
+            kill5: 0,
+            kill6: 0,
         }
     },
     LEGACY_180: {
@@ -239,8 +239,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 10,
-            kill6: 15,
+            kill5: 30,
+            kill6: 30,
         }
     },
 };
@@ -274,8 +274,8 @@ function getBoss(name) {
 
 const PointType = {
     KILL: ["kill", "killl", "kil", "kkil", "ki", "k", "kll", "kl"],
-    CAMP: ["camp", "campp", "cam", "ca", "c", "cmp", "cp"],
-    CAMP_KILL: ["campkill", "ckill", "campk", "campkill", "killcamp", "kcamp", "camp/kill", "kill/camp"],
+    CAMP: [],
+    CAMP_KILL: [],
 };
 
 //points here are per hour camped or per level
@@ -285,8 +285,8 @@ const BonusType = {
         points: 1,
     },
 	CAMP: {
-        aliases: ["camped"],
-        points: 7,
+        aliases: [],
+        points: 0,
     },
 };
 

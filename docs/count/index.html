@@ -25,10 +25,10 @@
         function clearOutput() {
             document.getElementById("dkpoutput").value = "";
         }
-		var playerAliases = "princes eliktra,princess eliktra,princs eliktra";
+		var playerAliases = "";
 		
 		var client = new XMLHttpRequest();
-		client.open('GET', 'https://raw.githubusercontent.com/henry-anderson/Ronin/master/docs/count/aliases.txt');
+		client.open('GET', 'aliases.txt');
 		client.onload = function() {
   			playerAliases = client.responseText
 			document.getElementById("playeraliases").value = playerAliases;
