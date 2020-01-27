@@ -4,8 +4,8 @@
 * <a href="points.md">Points Awarded</a>
 # Points
 
-A certain amount of DKP is awarded for killing bosses, camping, or leveling. Camping raids award 7 points per hour camped. Eligible raids include Hrungnir, Efnisien, Mordris, and Gelebron. Leveling rewards 5 points every 5 levels above 155. The table below shows the points each boss is worth. For certain bosses additional "camp" points are awarded if the player is there before the boss spawns.
-  
+A certain amount of DKP is awarded for killing bosses and leveling The tables below show the points each boss is worth.
+
 ## Dragonlord
 <table>
   <tr>
@@ -170,5 +170,89 @@ A certain amount of DKP is awarded for killing bosses, camping, or leveling. Cam
     <td>Legacy 180+</td>
     <td>30</td>
     <td>30</td>
+  </tr>
+</table>
+
+## Levels
+<table>
+  <tr>
+    <th>Level</th>
+    <th>Points</th>
+  </tr>
+  <tr>
+    <td>150-155</td>
+    <td>25</td>
+  </tr>
+    <tr>
+    <td>155-160</td>
+    <td>30</td>
+  </tr>
+    <tr>
+    <td>160-165</td>
+    <td>35</td>
+  </tr>
+    <tr>
+    <td>165-170</td>
+    <td>50</td>
+  </tr>
+    <tr>
+    <td>170-175</td>
+    <td>50</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>175-180</td>
+    <td>50</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>180-185</td>
+    <td>50</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>185-190</td>
+    <td>50</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>190-195</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>195-200</td>
+    <td>75</td>
+  </tr>
+  <tr>
+    <td>200-205</td>
+    <td>75</td>
+  </tr>
+  <tr>
+    <td>205-210</td>
+    <td>75</td>
+  </tr>
+  <tr>
+    <td>210-215</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>215-220</td>
+    <td>150</td>
+  </tr>
+  <tr>
+    <td>220-225</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>225-230</td>
+    <td>250</td>
+  </tr>
+  <tr>
+    <td>230-235</td>
+    <td>350</td>
+  </tr>
+  <tr>
+    <td>235-240</td>
+    <td>500</td>
   </tr>
 </table>
