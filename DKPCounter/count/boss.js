@@ -33,7 +33,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
+            kill5: 15,
             kill6: 50,
         }
     },
@@ -42,7 +42,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
+            kill5: 15,
             kill6: 50,
         }
     },
@@ -53,8 +53,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
-            kill6: 50,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_190: {
@@ -62,8 +62,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
-            kill6: 50,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_195: {
@@ -71,8 +71,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
-            kill6: 50,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_200: {
@@ -80,8 +80,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 20,
-            kill6: 50,
+            kill5: 15,
+            kill6: 25,
         }
     },
     EDL_205: {
@@ -128,7 +128,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 25,
+            kill6: 40,
         }
     },
     MORDRIS: {
