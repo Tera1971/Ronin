@@ -7,14 +7,12 @@
 The syntax is the most important aspect to the software. If it is incorrect DKP will not be counted.
 
 ### Bosses
-<pre>[boss] [stars] [camp/kill] on [player1, player2, player3...]</pre>
+<pre>[boss] [stars] kill on [player1, player2, player3...]</pre>
 
 * **[boss]** Represents the name of the boss. See the list below for aliases.
 * **[stars]** The number of stars. Using the word "main" is not sufficient
   - Must be either 4, 5, or 6.
   - It is important to note that even for raids such as Mordris and Gelebron the stars must be specified.
-* **[camp/kill]** Whether the points should be awarded as kill or camp points. Using "campkill" awards points for both.
-  - Must be either camp, kill, or campkill.
 * **[players]** This is a list of all the players that were in the group separated by a comma and space
   - Case insensitive but the names must be spelt correctly
   
@@ -22,45 +20,33 @@ The syntax is the most important aspect to the software. If it is incorrect DKP 
   
   
 #### Examples
-<pre>Snorri 4 camp on Thallen, Lutece, kneeSlapper</pre>
-<pre>180 4 camp on thallen, lutece, Kneeslapper</pre>
-<pre>Sreng 4 campkill on Thallen, Pathetic Healz, Alvain, Cat Balou</pre>
+<pre>Sreng 4 kill on Thallen, Pathetic Healz, Alvain, Cat Balou</pre>
 <pre>Spider 5 kill on Thallen, Crawlin, Sugar Kane</pre>
-<pre>215 6 camp on Thallen, Kilzalot, Eban, Valla Rees, Kiara Evangelin</pre>
-<pre>aggy 6 kill on Thallen, Unpleased, dragon shade</pre>
-<pre>necro 6 kill on TimeShift, ExBlood, Hugh Jaynus</pre>
-
-### Camping
-<pre>camped [hours] hour(s) on [player]</pre>
-* **[hours]** An integer representing the amount of hours the player spent camping a raid boss.
-  - Values containing decimals will not be counted.
-* **[player]** The name of the player.
-
-#### Examples
-<pre>camped 2 hours on spiritaldeath</pre>
-<pre>camped 1 hour on lark</pre>
-<pre>camped 6 hours on valla rees</pre>
+<pre>215 6 kill on Thallen, Kilzalot, Eban, Valla Rees, Kiara Evangelin</pre>
+<pre>mordi 6 kill on Thallen, Unpleased, dragon shade</pre>
 
 ### Leveling
 <pre>level [start]-[finish] on [player]</pre>
 * **[start]** An integer representing the level the player started at
-  - This must be an integer greater or equal to 155 
+  - This must be an integer greater or equal to 150
 * **[end]** An integer representing the level the player ended at
-  - This must be an integer greater than the starting value and less than or equal to 240
+  - This must be an integer less than or equal to 240
 * **[player]** The name of the player.
+
+Level bonuses are done in increments of 5 starting at level 150. They must be posted only in increments of 5 or they will not be counted. For example if you go from level 150-160 you will need to post both "level 150-155" and "level 155-160" instead of just posting "level 150-160" as this will not work.
 
 #### Examples
 <pre>level 210-215 on cogs</pre>
-<pre>level 180-190 on slowking</pre>
-<pre>level 155-220 on thallen</pre>
+<pre>level 180-185 on swish</pre>
+<pre>level 215-220 on thallen</pre>
 ___
 
 ### Player Aliases
 Player aliases are aliases that can be used instead of entering the players entire name. This is mainly used to fix simple errors, but can also be used to simplify the process. The current list of player aliases being used can be found <a href="../../docs/count/aliases.txt">here</a>. If you would like to request an alias submit a pull request with the desired changes.
 
-<pre>mordi 5 kill on sundrop</pre>
+<pre>mordi 5 kill on sasuke</pre>
 
-This example would award the points to "sundropkiss" instead of "sundrop" since it is on the list of aliases.
+This example would award the points to "sasuke579" instead of "sasuke" since it is on the list of aliases.
 
 ### Boss Names and Aliases
 * **155**: 155, spider, spidey, ulrob
@@ -75,16 +61,14 @@ This example would award the points to "sundropkiss" instead of "sundrop" since 
 * **205**: 205, cragskor, dragon
 * **210**: 210, revenant, anguish
 * **215**: 215, unox, eye
-* **Aggragoth**: aggragoth, aggy, agg
 * **Hrungnir**: hrungnir, hrung, hippo
 * **Mordris**: mordris, mordy, mordi
 * **Efnisien**: efnisien, efni, necromancer, necro
-* **Proteus Base**: proteusbase, proteus_base, protb, base
+* **Proteus Base**: proteusbase, proteus_base, protb, base, prot, proteus
 * **Proteus Prime**: proteusprime, proteus_prime, protp, prime
 * **Gelebron**: gelebron, gele, gel
 * **Bloodthorn**: bloodthorn, bt, blood, thorn
-* **Bloodthorn Root (5)**: bloodthornroot, bloodthorn_root, btroot, root
+* **Dhiothu**: dhiothu, dhio, dino
 * **Factions**: factions, faction, lich, reaver
 * **Ring Boss**: ringboss, ring_boss, rb, rbs, ring
-* **Legacy 150-179**: legacy150, legacy_150, witchfinder, hopkins, comrack, akais, hurricanes, typhoons, garyn, devestator, jalan, paradai, blizzardgore, synak
 * **Legacy 180+**: legacy180, legacy_180, natan, athatch, garanak, gara, urchaid, maelstrom, whirlwinds, whirlwind, smolach, annihilator, skain, osan, blight, tomb
