@@ -58,7 +58,7 @@ Dabstar
 DaedricLord,dae
 DaedricPrince
 Daric Pierce
-Darkly
+Darkly,Dark
 Darouin
 DaveTheWizard
 Dead Inside
@@ -72,7 +72,7 @@ Donatello
 Doynok
 Drac1
 Dragon Fangs
-DrakonicFury
+DrakonicFury,Drak
 DRUID
 Druidz
 Drunkie
@@ -95,7 +95,7 @@ FlawlessBlade
 Fondue
 Formal
 franko
-Frozen Myth,frozo
+Frozen Myth,Frozo,Froz
 FuriousRogue
 Galio
 GangsterIV,gang
@@ -113,8 +113,8 @@ guardian Angel
 Guyun
 Headhunterz
 HealsFromAbove
-Healz4Yearz
-Heavyshot
+Healz4Yearz,Healz
+Heavyshot,Heavy
 Helldiver
 HerbalHealz,Herbal
 Hiiiiiiii,Hi
@@ -135,7 +135,7 @@ Itxaro
 Ivan Drago
 Jnors
 Kahala
-Katie McArn,Katie
+Katie McArn,Katie,Kate,Kat
 Katrek
 Kefla
 Killmon
@@ -176,7 +176,7 @@ Markistan3
 Marknato
 Michaelangelo,mich
 Mikeyboy,mikey
-Misdemeanor
+Misdemeanor,Misd
 Miss Angelina
 Missfired
 MisterWC
@@ -237,4 +237,104 @@ Rosiee,rose
 Royalninja,royal
 Sabras Gethin,Sabras,Sab
 Saerah Magar,Sae
+Saraaaa98,Sara
+Sasori12,Sasori
+Sasuke579,Sasuke,Sas
+Savos
+Senia
+SerialKilla
+Shoyo
+Silent blade
+Sk33ze
+Skullcrusher,Skull,Skulli,Skullie
+Sky Era
+sneaky beaky
+Sneakyshadow
+Sobriety
+Soul Warrior
+soulless
+Spacemaker 300,Spacemaker
+SpartanIII,Spartan
+Spiritaldeath
+Squirrel
+Squirts
+Squirtz
+Stabetha
+Starrynight54
+Stirstix,Stir
+Sundown,Sun
+Swish
+Swishy
+Tanjiro,Tan
+Tank of Mabon
+tankasaurus
+Temperr,Temper
+TerminNater,Term
+Terz
+The Dark Man
+The Darkness
+The Diz,Diz
+The Doctor,Doctor,Doc
+The Healer,Healer,Heal
+The Last Ranger
+TheDarkMan
+TheFuture,Future
+TheLastRouge
+Thermal Healz
+Thunderbuns,Buns,Bunz
+Tidus,Tids,Tid
+Tiff
+Tomoko,Tomo
+TonyTony,Tony
+Tr0jan
+Trev Macla,Trev
+Ungodly
+Usuk Muaddib,Usuk
+UwU
+Valindra,Val
+Valkyrja
+Vangtan Laphrog,Vangtan,Vang
+Vannee,Van
+Vestas
+Veto
+Vhen
+Vibrancy,Vib
+Villain
+Viscaria,Vis
+Voria MacLaurin,Voria,Vor,V
+Vortar Tolan,Vortar
+Werts00alts,Wert
+Whimsy
+Whiteyes,White,eyes
+Wiggly Bob,Wiggly,Wig
+Wilding,Wild
+Wind Dancer
+Windward,Wind
+xBast,Bast
+XBlackCobraX,Cobra
+XDarthStrikerX,Darth
+Xde
+XdiabloX,diablo
+Xeni1387,Xeni
+xHoneyx,Honey
+XNoirX
+xRedJamiex,Red,Jamie
+xResonatex,Res
+xrougemasterx,rouge,RM
+xSweetiex,Sweetie
+xTimurx,Tim
+xTooxBlackx,Black
+xxdarkroguexx
+xxLovelyRoguexx,Lovely
+XxMlgClutchxX,Mlg
+xxWarcrusherxx,War
+YAMUM101,YAMUM
+Ysana Pembroke,Ysana
+Yuh1,Yuh
+Zahid
+Zealot,Z
+Zeero,Zero
+Zn
+Zodiac X
+Zol
 
