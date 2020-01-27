@@ -17,9 +17,9 @@ public enum Boss {
 	EDL_185(new String[] {"185", "dog", "doggy", "dogg", "ifryn"}, 0, new int[] {5, 20, 50}),
 	EDL_190(new String[] {"190", "skath", "magister"}, 0, new int[] {5, 20, 50}),
 	EDL_195(new String[] {"195", "gron", "general"}, 0, new int[] {5, 20, 50}),
-	EDL_200(new String[] {"200", "krother", "imp"}, 0, new int[] {10, 30, 60}),
+	EDL_200(new String[] {"200", "krother", "imp"}, 0, new int[] {5, 20, 50}),
 	EDL_205(new String[] {"205", "cragskor", "dragon"}, 5, new int[] {10, 30, 60}),
-	EDL_210(new String[] {"210", "revenant", "anguish"}, 5, new int[] 10, 30, 60}),
+	EDL_210(new String[] {"210", "revenant", "anguish"}, 5, new int[] {10, 30, 60}),
 	EDL_215(new String[] {"215", "unox", "eye"}, 5, new int[] {10, 30, 60}),
 	
 	/* Raids */
@@ -49,7 +49,7 @@ public enum Boss {
 	 * @param campPoints The amount of camp points to award
 	 * @param killPoints The amount of kill points to award
 	 */
-	Boss(String[] aliases, int campPoints, int[] killPoints) {
+	Boss(final String[] aliases, final int campPoints, final int[] killPoints) {
 		this.aliases = aliases;
 		this.campPoints = campPoints;
 		this.killPoints = killPoints;
@@ -84,7 +84,7 @@ public enum Boss {
 	 * @param stars The stars
 	 * @return The kill points
 	 */
-	public int getKillPoints(int stars) {
+	public int getKillPoints(final int stars) {
 		if(stars == 4) {
 			return this.killPoints[0];
 		}
@@ -102,9 +102,9 @@ public enum Boss {
 	 * @param name The name of the boss
 	 * @return The boss
 	 */
-	public static Boss getBoss(String name) {
-		for(Boss boss : Boss.values()) {
-			for(String alias : boss.getAliases()) {
+	public static Boss getBoss(final String name) {
+		for(final Boss boss : Boss.values()) {
+			for(final String alias : boss.getAliases()) {
 				if(name.equalsIgnoreCase(alias)) {
 					return boss;
 				}
