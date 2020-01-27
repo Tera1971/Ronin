@@ -61,7 +61,6 @@ This example would award the points to "sasuke579" instead of "sasuke" since it 
 * **205**: 205, cragskor, dragon
 * **210**: 210, revenant, anguish
 * **215**: 215, unox, eye
-* **Aggragoth**: aggragoth, aggy, agg
 * **Hrungnir**: hrungnir, hrung, hippo
 * **Mordris**: mordris, mordy, mordi
 * **Efnisien**: efnisien, efni, necromancer, necro
