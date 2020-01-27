@@ -219,7 +219,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 0,
+            kill5: 20,
             kill6: 0,
         }
     },
