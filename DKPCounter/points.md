@@ -168,7 +168,7 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   </tr>
   <tr>
     <td>Legacy 180+</td>
-    <td>30</td>
+    <td>20</td>
     <td>30</td>
   </tr>
 </table>
