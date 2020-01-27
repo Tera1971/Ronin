@@ -51,8 +51,8 @@ function countPoints(formatted) {
 				}
 				else if(bonusType === BonusType.LEVEL) {
 					let parser = new LevelPointParser(line);
-					let points = parser.levels * BonusType.LEVEL.points;
-					addPoints(getPlayerFromAlias(parser.player), parser.levels);
+					let points = getLevelBonusPoints(parser.levels);
+					addPoints(getPlayerFromAlias(parser.player), points);
 				}
 			}
         }

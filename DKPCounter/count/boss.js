@@ -244,6 +244,98 @@ const Boss = {
         }
     },
 };
+const PointType = {
+    KILL: ["kill", "killl", "kil", "kkil", "ki", "k", "kll", "kl"],
+    CAMP: [],
+    CAMP_KILL: [],
+};
+
+//points here are per hour camped or per level
+const BonusType = {
+    LEVEL: {
+        aliases: ["leveled", "level", "levelled"],
+        points: 1,
+    },
+    CAMP: {
+        aliases: [],
+        points: 0,
+    },
+};
+
+const LevelBonusType = {
+    LEVEL_150_155: {
+        name: "150-155",
+        points: 25,
+    },
+    LEVEL_155_160: {
+        name: "155-160",
+        points: 30,
+    },
+    LEVEL_160_165: {
+        name: "160-165",
+        points: 35,
+    },
+    LEVEL_165_170: {
+        name: "165-170",
+        points: 50,
+    },
+    LEVEL_170_175: {
+        name: "170-175",
+        points: 50,
+    },
+    LEVEL_175_180: {
+        name: "175-180",
+        points: 50,
+    },
+    LEVEL_180_185: {
+        name: "180-185",
+        points: 50,
+    },
+    LEVEL_185_190: {
+        name: "185-190",
+        points: 50,
+    },
+    LEVEL_190_195: {
+        name: "190-195",
+        points: 50,
+    },
+    LEVEL_195_200: {
+        name: "195-200",
+        points: 75,
+    },
+    LEVEL_200_205: {
+        name: "200-205",
+        points: 75,
+    },
+    LEVEL_205_210: {
+        name: "205-210",
+        points: 75,
+    },
+    LEVEL_210_215: {
+        name: "210-215",
+        points: 100,
+    },
+    LEVEL_215_220: {
+        name: "215-220",
+        points: 150,
+    },
+    LEVEL_220_225: {
+        name: "220-225",
+        points: 200,
+    },
+    LEVEL_225_230: {
+        name: "225-230",
+        points: 250,
+    },
+    LEVEL_230_235: {
+        name: "230-235",
+        points: 350,
+    },
+    LEVEL_235_240: {
+        name: "235-240",
+        points: 500,
+    },
+};
 
 function getKillPoints(boss, stars) {
     if(stars === 4) {
@@ -271,24 +363,6 @@ function getBoss(name) {
     }
     return null;
 }
-
-const PointType = {
-    KILL: ["kill", "killl", "kil", "kkil", "ki", "k", "kll", "kl"],
-    CAMP: [],
-    CAMP_KILL: [],
-};
-
-//points here are per hour camped or per level
-const BonusType = {
-	LEVEL: {
-        aliases: ["leveled", "level", "levelled"],
-        points: 1,
-    },
-	CAMP: {
-        aliases: [],
-        points: 0,
-    },
-};
 
 function getPointTypes() {
     return [PointType.CAMP, PointType.KILL, PointType.CAMP_KILL];
@@ -320,4 +394,29 @@ function getBonusType(name) {
         }
     }
     return null;
+}
+function getLevelBonusTypes() {
+    return [LevelBonusType.LEVEL_150_155, LevelBonusType.LEVEL_155_160, LevelBonusType.LEVEL_160_165, LevelBonusType.LEVEL_165_170, LevelBonusType.LEVEL_170_175, LevelBonusType.LEVEL_180_185, LevelBonusType.LEVEL_185_190, LevelBonusType.LEVEL_190_195, LevelBonusType.LEVEL_195_200, LevelBonusType.LEVEL_200_205, LevelBonusType.LEVEL_205_210, LevelBonusType.LEVEL_210_215, LevelBonusType.LEVEL_215_220, LevelBonusType.LEVEL_220_225, LevelBonusType.LEVEL_225_230, LevelBonusType.LEVEL_230_235, LevelBonusType.LEVEL_235_240];
+}
+//where levels is a string such as "150-155"
+function getLevelBonusType(levels) {
+    for(let i = 0; i < getLevelBonusTypes().length; i++) {
+        let levelBonusType = getLevelBonusTypes()[i];
+        if(levels == levelBonusType.name) {
+            return levelBonusType
+        }
+    }
+    return null;
+}
+
+function isValidLevelBonus(levels) {
+    if(getLevelBonusType(levels) != null) {
+        return true;
+    }
+    return false;
+}
+
+function getLevelBonusPoints(levels) {
+    let levelBonusType = getLevelBonusType(levels);
+    return levelBonusType.points;
 }
