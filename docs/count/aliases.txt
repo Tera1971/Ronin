@@ -1,10 +1,10 @@
-000000000000000
-00Zedd00
-0Zeus0
+000000000000000,00000,00
+00Zedd00,Zedd,Zed
+0Zeus0,Zeus
 1Eleven1,11
 5inch,inch
 Accord
-Adam09
+Adam09,Adam
 Aetna
 Ajentj,aj
 Akimia,kimia
@@ -15,7 +15,7 @@ AmritaAnanda,rita
 Amulet
 Ankh
 Aphrodite
-Ashley A,Ash
+Ashley A,Ashley,Ash
 AsianKidXX
 Athlete
 Azona
@@ -49,8 +49,8 @@ Chipmunk
 Chokachi
 Cinch
 Clayton369
-Cr0n0s
-Crixos
+Cr0n0s,Cron,cronos
+Crixos,Crix
 Cruiser
 Crusher1
 Dab
@@ -64,13 +64,13 @@ DaveTheWizard
 Dead Inside
 Death Spite
 Dementia
-Devilsarmour
+Devilsarmour,DA,Devil
 Dianah
 Dima1
-Donaldtheduck
+Donaldtheduck,Donald,Don
 Donatello
 Doynok
-Drac1
+Drac1,Darc
 Dragon Fangs
 DrakonicFury,Drak
 DRUID
@@ -95,11 +95,11 @@ FlawlessBlade
 Fondue
 Formal
 franko
-Frozen Myth,Frozo,Froz
+Frozen Myth,Frozen,Frozo,Froz
 FuriousRogue
 Galio
 GangsterIV,gang
-Gannicus39
+Gannicus39,Gann
 Garein
 Ghostshot
 Godstrike
@@ -109,7 +109,7 @@ Goonsquad
 Grimalkin
 grimheals
 Gspot
-guardian Angel
+guardian Angel,GA
 Guyun
 Headhunterz
 HealsFromAbove
@@ -248,8 +248,8 @@ Silent blade
 Sk33ze
 Skullcrusher,Skull,Skulli,Skullie
 Sky Era
-sneaky beaky
-Sneakyshadow
+sneaky beaky,sb
+Sneakyshadow,ss
 Sobriety
 Soul Warrior
 soulless
@@ -320,7 +320,7 @@ xHoneyx,Honey
 XNoirX
 xRedJamiex,Red,Jamie
 xResonatex,Res
-xrougemasterx,rouge,RM
+xRougeMasterx,Rouge,RM
 xSweetiex,Sweetie
 xTimurx,Tim
 xTooxBlackx,Black
