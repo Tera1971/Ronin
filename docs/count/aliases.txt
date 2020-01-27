@@ -1,21 +1,21 @@
 000000000000000, 00000, 00
-00Zedd00, Zedd, Zed
-0Zeus0, Zeus
-1Eleven1, 11
-5inch, inch
-Accord, Acc
-Adam09, Adam
+00Zedd00,Zedd,Zed
+0Zeus0,Zeus
+1Eleven1,11
+5inch,inch
+Accord,Acc
+Adam09,Adam
 Aetna
-Ajentj, aj
+Ajentj,aj
 Akimia, kimia
-AlbusDumbledore, Albus
+AlbusDumbledore,Albus
 ALODIA
 Alpi
-AmritaAnanda, rita
+AmritaAnanda,rita
 Amulet
 Ankh
 Aphrodite
-Ashley A,Ashley, Ash
+Ashley A,Ashley,Ash
 AsianKidXX
 Athlete
 Azona
