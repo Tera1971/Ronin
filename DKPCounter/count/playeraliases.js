@@ -7,7 +7,6 @@ function loadAliases(text) {
         let line = split[i];
 		let commaSplit = line.split(",");
 		let player = commaSplit[0].trim();
-		console.log("." + player + ".")
 		let aliases = line.replace(player + ",", "").split(",");
 		aliases = aliases.map(function (el) {
 			return el.trim().toLowerCase();
@@ -23,7 +22,6 @@ function getPlayerFromAlias(aliasInput) {
 		}
 		for(let i = 0; i < aliases.length; i++) {
 			let alias = aliases[i];
-			console.log("." + alias + ".");
 			if(aliasInput.toLowerCase() == alias.toLowerCase()) {
 				return player;
 			}
