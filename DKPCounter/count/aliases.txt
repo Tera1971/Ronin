@@ -285,7 +285,7 @@ Thermal Healz,thermal healz,thermalhealz,thermalheals
 Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
 Tidus,Tids,Tid,tidus,tids,tid
 Tiff,tiff
-Tomoko,Tomo,tomoko,tomo
+Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
