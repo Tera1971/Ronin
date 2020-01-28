@@ -1,340 +1,340 @@
-000000000000000, 00000, 00
-00Zedd00,Zedd,Zed
-0Zeus0,Zeus
-1Eleven1,11
-5inch,inch
-Accord,Acc
-Adam09,Adam
-Aetna
-Ajentj,aj
-Akimia, kimia
-AlbusDumbledore,Albus
-ALODIA
-Alpi
-AmritaAnanda,rita
-Amulet
-Ankh
-Aphrodite
-Ashley A,Ashley,Ash
-AsianKidXX
-Athlete
-Azona
-Bangin
-Bashbashbash,bash
-Beattz
-Belisama
-Berkanf,berk
-BiggieLDN,biggie
-Bill Gryll,Bill
+000000000000000,00000,0000,000,00,0
+00Zedd00,Zedd,Zed,zed,zedd
+0Zeus0,Zeus,zeus
+1Eleven1,11,eleven
+5inch,inch,5
+Accord,Acc,accord,acc
+Adam09,Adam,adam
+Aetna,aetna
+Ajentj,ajentj,aj,Aj
+Akimia,akimia,Kimia,kimia
+AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
+ALODIA,alodia
+Alpi,alpi,Alp,alp
+AmritaAnanda,amrita,rita
+Amulet,amulet,Amu,amu
+Ankh,ankh,Ank,ank
+Aphrodite,Aphro,aphrodite,aphro,
+Ashley A,Ashley,Ash,ashley a,ashley,ash
+AsianKidXX,Asian,Asia,asiankid,asian,asia
+Athlete,Lete,athlete,lete
+Azona,azona,Zona,zona
+Bangin,Bang,bangin,bang
+Bashbashbash,Bash,Bashbashbash,bash
+Beattz,Beat,beattz,beat
+Belisama,Beli,belisama,beli,Bel,bel
+Berkanf,Berk,berkan,berk
+BiggieLDN,Big,biggie,big
+Bill Gryll,Bill,bill gryll,bill
 Black Cobra
 BlueGlow
-Bobymage
+Bobymage,Boby,bobymage,boby
 bone7
-Bonlucky
-Bowner
-Braden Cole,Braden
-Brightly
-Brkn2013,brkn
-Buffy
-Buj4nski,Buj
-Butcher629,butch
-Buttermybuns
-Cammybearpea,cam,cams,cammy,cbp
-ChaosWarriors
-Charlesr9
-CheeksMcGee
-Cheering T
-Chinook
-Chipmunk
+Bonlucky,Bon,bonlucky,bon
+Bowner,Bow,Boner,bowner,bow,boner
+Braden Cole,Braden,braden cole,braden,brad
+Brightly,Bright,brightly,bright
+Brkn2013,Brkn,brkn2013,brkn
+Buffy,Buff,Buf,buffy,buff,buf
+Buj4nski,Buj,buj4nski,buj
+Butcher629,Butcher,Butch,butcher629,butcher,butch
+Buttermybuns,Butter,buttermybuns,butter
+Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
+ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
+Charlesr9,Charles,charlesr9,charles
+CheeksMcGee,Cheeks,cheeksmcgee,cheeks
+Cheering T,Cheering,Cheer,cheering t,cheering,cheer
+Chinook,Chin,chinook,chin
+Chipmunk,Chip,chipmunk,chip
 Chokachi
-Cinch
+Cinch,cinch
 Clayton369
-Cr0n0s,Cron,cronos
-Crixos,Crix
-Cruiser
-Crusher1
-Dab
-Dabstar
+Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos
+Crixos,Crix,crixos,crix
+Cruiser,Cruise,cruiser,cruis,cruise
+Crusher1,Crusher,Crush,crusher1,crusher,crush
+Dab,dab
+Dabstar,dabstar
 DaedricLord,dae
 DaedricPrince
-Daric Pierce
-Darkly,Dark
-Darouin
-DaveTheWizard
-Dead Inside
+Daric Pierce,Daric,daric pierce,daric
+Darkly,Dark,darkly,dark
+Darouin,darouin
+DaveTheWizard,Dave,davethewizard,dave
+Dead Inside,Dead,dead inside,dead
 Death Spite
-Dementia
-Devilsarmour,DA,Devil
-Dianah
-Dima1
-Donaldtheduck,Donald,Don
-Donatello
-Doynok
-Drac1,Darc
-Dragon Fangs
-DrakonicFury,Drak
-DRUID
-Druidz
-Drunkie
-Dunkinn
-ElDiablo
-EliteHealz
-Elvia Jones,Elvia
-Episode
-Eski Mofo,Eski
-Ethan
-Exio
-False
-Fei
-Filthy Viejo
-FireAndFire
-Firecrotch
-Fired
-Firestorms
-FlawlessBlade
-Fondue
-Formal
-franko
-Frozen Myth,Frozen,Frozo,Froz
+Dementia,Dem,dementia,dem
+Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil
+Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
+Dima1,Dima,dima1,dima
+Donaldtheduck,Donald,donaldtheduck,donald
+Donatello,Don,donatello,don
+Doynok,doy,doynok,doy
+Drac1,Darc,drac1,drac
+Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
+DrakonicFury,Drakonic,Drak,drak,drakonicFury
+DRUID,druid
+Druidz,druidz
+Drunkie,Drunk,drunkie,drunk
+Dunkinn,Dunk,dunkinn,dunk
+ElDiablo,ElDia,eldiablo,eldia
+EliteHealz,Elite,eliteheals,elite,Eh,eh
+Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
+Episode,Epi,episode,epi
+Eski Mofo,Eski,Mofo,eski mofo,eski
+Ethan,ethan
+Exio,exio
+False,false
+Fei,Fie,fei,fie
+Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
+FireAndFire,Fnf,fireandfire,fnf
+Firecrotch,Fire,firecrotch,fire
+Fired,fired
+Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
+FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
+Fondue,fondue
+Formal,formal
+franko,Franko,frank
+Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz
 FuriousRogue
-Galio
-GangsterIV,gang
-Gannicus39,Gann
-Garein
-Ghostshot
-Godstrike
-GodTank
-Goonch
-Goonsquad
-Grimalkin
-grimheals
-Gspot
-guardian Angel,GA
-Guyun
-Headhunterz
-HealsFromAbove
-Healz4Yearz, Healz
-Heavyshot, Heavy, HS
-Helldiver
-HerbalHealz, Herbal
-Hiiiiiiii, Hi
-Hostile
-Hunter45
-I Am
-iceiceice, ice
-iCrit
-IDRC
-Illillillillill, ill
-Ilumi,lumi
-Ily2,ily
-ImAGoon,goon
-ImSoSick
-ImThatOne1
-Interruption
-Itxaro
-Ivan Drago
-Jnors
-Kahala
-Katie McArn,Katie,Kate,Kat
-Katrek
-Kefla
-Killmon
-Killshot
-Kos
-Kvothekalos,Kvo
-Lady Anarchy
-Lady Lock
-LadyFate
-Lanre
-LazyScy
-Ledion
-Leemaster,lee
-Legend moka,moka
-Lethality
+Galio,galio
+GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
+Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
+Garein,garein
+Ghostshot,Ghost,ghostshot,ghost
+Godstrike,God,Gs,godstrike,god,gs,
+GodTank,Gt,godtank,gt
+Goonch,goonch
+Goonsquad,goonsquad
+Grimalkin,grimalkin
+grimheals,grim,Grimheals,grim
+Gspot,gspot
+guardian Angel,GA,Guardian,ga,guardin angel
+Guyun,Guy,guyun,guy
+Headhunterz,headhunter,head
+HealsFromAbove,Hfa,healsfromabove,hfa
+Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
+Heavyshot,Heavy,HS,heavyshot,heavy,hs
+Helldiver,Hell,helldiver,hell
+HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
+Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi
+Hostile,hostile
+Hunter45,Hunter,Hunt,hunter45,hunter,hunt
+I Am,Iam,i am,iam
+iceiceice,ice,Iceiceice,Ice
+iCrit,Icrit
+IDRC,idrc
+Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
+Ilumi,ilumi
+Ily2,Ily,ily2,ily
+ImAGoon,imagoon,goon
+ImSoSick,imsosick
+ImThatOne1,Ito,imthatone,ito
+Interruption,Interrupt,Inter,interruption,interrupt,inter
+Itxaro,itxaro
+Ivan Drago,Ivan,ivan drago,ivan
+Jnors,jnors,Jnor,jnor
+Kahala,kahala
+Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
+Katrek,katrek
+Kefla,kefla,Kef,kef
+Killmon,Km,killmon,km
+Killshot,Ks,killshot,ks
+Kos,kos
+Kvothekalos,Kvo,kvothekalos,kvo
+Lady Anarchy,lady anarchy
+Lady Lock,lady lock
+LadyFate,ladyfate
+Lanre,lanre
+LazyScy,Lazy,lazyscy,lazy
+Ledion,Led,ledion,led
+Leemaster,Lee,leemaster,lee
+Legend moka,Legend,Moka,legend moka,legend,moka
+Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
-LiamX
-Lifebonds
-LifeGuard
-LittleH,H
-Livid
-LlamaHunter,llama
-Lock Block
-LockBlock
-Longgg
-LookAtme
-Loyalty
-Lucozade,luco
-Luminous,lumin
-Lythirlas,lyth
+LiamX,Liam,liamx,liam
+Lifebonds,Lb,lifebonds,lb
+LifeGuard,Lg,lifeguard,lg
+LittleH,H,little h,h
+Livid,livid
+LlamaHunter,Llama,llamahunter,llama
+Lock Block,lock block
+LockBlock,lockblock
+Longgg,Longg,Long,longgg,longg,long
+LookAtme,lookatme
+Loyalty,loyalty
+Lucozade,Luco,lucozade,luco
+Luminous,Lumin,Lum,luminous,lumin,lum
+Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
-Madara Uchiha,Madara
-Maga
-Mana Ogilvie,Mana
-Mancan
-Marina1
-Markistan3
-Marknato
-Michaelangelo,mich
-Mikeyboy,mikey
-Misdemeanor,Misd
-Miss Angelina
-Missfired
-MisterWC
-Mo Mo
-Montagne
-Mooooshi
-Morgatha
-Mr. Frog,Frog
-Mr. Piggi,Piggi
-MrRogue,Mr
-Msboby
-Mukk
-MukkDruid
-MyLockNow
-Mythic
-MyWorld1
-Nagatopain,nagato
-NameMyHero
-NaturesFury
-Neeeeenja808,neen,nenja
-Nick629,nick
-Nightshadow51
-nikhilrajj,nik
-Noblesse
-Nyx
-Oblivion
-OG Mudbone,OG
-Omega,megs
-Ooflol,oof
-OwO
-OzzyFudd,ozzy
-Painbringer,pain
-Payload
-PEHLIVANBE,pehli
-Phantom Hexrat,Hexrat
-ProteinChipmunk
-Proteus Prime,Prot
+Madara Uchiha,Madara,madara urchiha,madara
+Maga,Mag,maga,mag
+Mana Ogilvie,Mana,mana ogilvie,mana
+Mancan,mancan
+Marina1,Mari,marina1,mari
+Markistan3,Mark,markistan3,mark
+Marknato,marknato,Nato,nato
+Michaelangelo,Mich,michaelangelo,mich
+Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
+Misdemeanor,Misd,misdemeanor,misd
+Miss Angelina,Angelina,miss angelina,angelina
+Missfired,missfired
+MisterWC,Mrwc,misterwc,mrwc
+Mo Mo,Momo,mo mo,momo,
+Montagne,montagne
+Mooooshi,Mooshi,mooooshi,mooshi
+Morgatha,Morg,morgatha,morg
+Mr. Frog,MrFrog,mr. frog,Frog,frog
+Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
+MrRogue,Mr,mrrogue,mr
+Msboby,msboby
+Mukk,Muk,mukk,muk
+MukkDruid,mukkdruid
+MyLockNow,Mln,mylocknow,mln
+Mythic,mythic
+MyWorld1,myworld,Myworld
+Nagatopain,Nagato,nagatopain,nagato
+NameMyHero,Nmh,Hero,namemyhero,nmh,hero
+NaturesFury,naturesfury
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja
+Nick629,Nick,nick629,nick
+Nightshadow51,nightshadow
+nikhilrajj,Nik,Nikhirajj,nik
+Noblesse,noblesse
+Nyx,nyx
+Oblivion,oblivion
+OG Mudbone,OG,og mudbone,og
+Omega,Megs,Mega,omega,megs,mega
+Ooflol,Oof,ooflol,oof
+OwO,owo,0w0
+OzzyFudd,Ozzy,ozzyfud,ozzy
+Painbringer,Pain,painbringer,pain
+Payload,Pay,payload,pay
+PEHLIVANBE,Pehli,pehlivanbe,pehli
+Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
+ProteinChipmunk,Protein,proteinchipmunk,protein
+Proteus Prime,Prot,proteus prime,prot
 Purepk9r,pk9r
-Quickie
-Quicksteal,steal,Qs
-RO
-Ragz
-RangedAssassin,RA
-RangerIT,IT
-Razt
-Redish,red
-Redpumpkin,pumpkin
-Revive
-Rickstyle
-RitZ1,Ritz,Rit
-Robbieladd,Robbie,Rob
-Robin Hood,Robin
-Roda
-Roguepower,Rp
-Rohin
-Rolling Wood,Rolling,roll
-Rosiee,rose
-Royalninja,royal
-Sabras Gethin,Sabras,Sab
-Saerah Magar,Sae
-Saraaaa98,Sara
-Sasori12,Sasori
-Sasuke579,Sasuke,Sas
-Savos
-Senia
-SerialKilla
-Shoyo
-Silent blade
-Sk33ze
-Skullcrusher,Skull,Skulli,Skullie
-Sky Era
-sneaky beaky,sb
-Sneakyshadow,ss
-Sobriety
-Soul Warrior
-soulless
+Quickie,quickie
+Quicksteal,Steal,Qs,quicksteal,steal,qs
+R0,ro,Ro,r0
+Ragz,ragz
+RangedAssassin,RA,rangedassassin,ra
+RangerIT,IT,ranger it,it
+Razt,razt
+Redish,Red,redish,red
+Redpumpkin,Pumpkin,redpumpkin,pumpkin
+Revive,revive
+Rickstyle,Rick,rickstyle,rick
+RitZ1,Ritz,Rit,ritz1,ritz,rit
+Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
+Robin Hood,Robin,robin hood,robin
+Roda,roda,
+Roguepower,Rp,roguepower,rp
+Rohin,rohin
+Rolling Wood,Rolling,roll,Roll,rolling wood
+Rosiee,Rose,rosiee,rose
+Royalninja,Royal,royalninja,royal
+Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
+Saerah Magar,Sae,saerah magar,sae
+Saraaaa98,Sara,saraaa,sara
+Sasori12,Sasori,sasori,sasori12
+Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
+Savos,savos
+Senia,senia
+SerialKilla,Killa,serialkilla,killa
+Shoyo,shoyo,Sho,sho
+Silent blade,Silent,silent blade,silent
+Sk33ze,sk33ze,Skeeze,skeeze
+Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie
+Sky Era,sky era
+sneaky beaky,sb,Sneaky beaky,Sb
+Sneakyshadow,Ss,sneakyshadow,ss
+Sobriety,Sob,sobriety,sob
+Soul Warrior,soul warrior
+soulless,Soulless
 Spacemaker 300,Spacemaker
 SpartanIII,Spartan
-Spiritaldeath
-Squirrel
-Squirts
-Squirtz
-Stabetha
-Starrynight54
-Stirstix,Stir
-Sundown,Sun
-Swish
-Swishy
-Tanjiro,Tan
-Tank of Mabon
-tankasaurus
-Temperr,Temper
-TerminNater,Term
-Terz
-The Dark Man
-The Darkness
-The Diz,Diz
-The Doctor,Doctor,Doc
-The Healer,Healer,Heal
-The Last Ranger
-TheDarkMan
-TheFuture,Future
-TheLastRouge
-Thermal Healz
-Thunderbuns,Buns,Bunz
-Tidus,Tids,Tid
-Tiff
-Tomoko,Tomo
-TonyTony,Tony
-Tr0jan
-Trev Macla,Trev
-Ungodly
-Usuk Muaddib,Usuk
-UwU
-Valindra,Val
-Valkyrja
-Vangtan Laphrog,Vangtan,Vang
-Vannee,Van
-Vestas
-Veto
-Vhen
-Vibrancy,Vib
-Villain
-Viscaria,Visc,Vis
-Voria MacLaurin,Voria,Vor,V
-Vortar Tolan,Vortar
-Werts00alts,Wert
-Whimsy
-Whiteyes,White,eyes
-Wiggly Bob,Wiggly,Wig
-Wilding,Wild
-Wind Dancer
-Windward,Wind
-xBast,Bast
-XBlackCobraX,Cobra
-XDarthStrikerX,Darth
-Xde
+Spiritaldeath,spiritaldeath
+Squirrel,squirrel,squirel
+Squirts,squirts
+Squirtz,squirtz
+Stabetha,stabetha
+Starrynight54,starrynight54
+Stirstix,Stir,stirstix,stir
+Sundown,Sun,sundown,sun
+Swish,swish
+Swishy,swishy
+Tanjiro,Tan,Tanj,tanjiro,tanj,tan
+Tank of Mabon,tank of mabon
+tankasaurus,Tankasaurus
+Temperr,Temper,temperr,temper
+TerminNater,Term,Terminnater,terminater,term
+Terz,terz
+The Dark Man,Tdm,the dark man,tdm
+The Darkness,Darkness,the darkness,darkness
+The Diz,Diz,the diz,diz
+The Doctor,Doctor,Doc,the doctor,doctor,doc
+The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler
+The Last Ranger,the last ranger
+TheDarkMan,thedarkman
+TheFuture,Future,thefuture,future
+TheLastRouge,Tlr,tlr
+Thermal Healz,thermal healz,thermalhealz,thermalheals
+Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
+Tidus,Tids,Tid,tidus,tids,tid
+Tiff,tiff
+Tomoko,Tomo,tomoko,tomo
+TonyTony,Tony,tonytony,tony
+Tr0jan,Trojan,tr0jan,trojan
+Trev Macla,Trev,trev macla,trev
+Ungodly,ungodly
+Usuk Muaddib,Usuk,usuk muaddib,usuk
+UwU,uwu
+Valindra,Val,valindra,val
+Valkyrja,valkyria
+Vangtan Laphrog,Vangtan,Vang,vangtan,vang
+Vannee,Van,vannee,van
+Vestas,vestas
+Veto,veto
+Vhen,vhen
+Vibrancy,Vib,vibrancy,vib
+Villain,villian
+Viscaria,Visc,Vis,viscaria,visc,vis
+Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
+Vortar Tolan,Vortar,vortar tolan,vortar
+Werts00alts,Wert,werts00alts,wert
+Whimsy,whimsy
+Whiteyes,White,eyes,pixie,pixi,whiteyes,white
+Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig
+Wilding,Wild,wilding,wild
+Wind Dancer,wind dancer
+Windward,Wind,windward,wind
+xBast,Bast,xbast,bast
+XBlackCobraX,Cobra,xblackcobrax,cobra
+XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
+Xde,xde
 XdiabloX,diablo
 Xeni1387,Xeni
-xHoneyx,Honey
-XNoirX
-xRedJamiex,Red,Jamie
-xResonatex,Res
-xRougeMasterx,Rouge,RM
-xSweetiex,Sweetie
-xTimurx,Tim
-xTooxBlackx,Black
-xxdarkroguexx
-xxLovelyRoguexx,Lovely
-XxMlgClutchxX,Mlg
-xxWarcrusherxx,War
-YAMUM101,YAMUM
-Ysana Pembroke,Ysana
-Yuh1,Yuh
-Zahid
-Zealot,Z
-Zeero,Zero
-Zn
-Zodiac X
-Zol
+xHoneyx,Honey,honey
+XNoirX,noir
+xRedJamiex,Jamie,red jamie,jamie
+xResonatex,Res,resonate,res
+xRougeMasterx,Rouge,RM,roguemaster,rogue,rm
+xSweetiex,Sweetie,sweetie
+xTimurx,Tim,timur,tim
+xTooxBlackx,Black,black
+xxdarkroguexx,dr
+xxLovelyRoguexx,Lovely,lovely
+XxMlgClutchxX,Mlg,mlg
+xxWarcrusherxx,War,warcrusher,war
+YAMUM101,YAMUM,Mum,mum,yamum,yamom
+Ysana Pembroke,Ysana,ysana
+Yuh1,Yuh,yuh
+Zahid,zahid
+Zealot,Z,Zea,zealot,z,zea
+Zeero,Zero,zeero,zero
+Zn,zn
+Zodiac X,zodiac
+Zol,zol
 
