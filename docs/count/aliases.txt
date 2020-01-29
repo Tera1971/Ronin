@@ -7,9 +7,9 @@ Accord,Acc,accord,acc
 Adam09,Adam,adam
 Aetna,aetna
 Ajentj,ajentj,aj,Aj
-Akimia,akimia,Kimia,kimia
+Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
-ALODIA,alodia
+ALODIA,alodia,alo
 Alpi,alpi,Alp,alp
 AmritaAnanda,amrita,rita
 Amulet,amulet,Amu,amu
@@ -18,7 +18,7 @@ Aphrodite,Aphro,aphrodite,aphro,
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Athlete,Lete,athlete,lete
-Azona,azona,Zona,zona
+Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 Bashbashbash,Bash,Bashbashbash,bash
 Beattz,Beat,beattz,beat
@@ -63,7 +63,7 @@ Darkly,Dark,darkly,dark
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 Dead Inside,Dead,dead inside,dead
-Death Spite
+Death Spite,Death,deathspite,death
 Dementia,Dem,dementia,dem
 Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
@@ -103,14 +103,14 @@ GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
 Ghostshot,Ghost,ghostshot,ghost
-Godstrike,God,Gs,godstrike,god,gs,
+Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
 Goonch,goonch
 Goonsquad,goonsquad
 Grimalkin,grimalkin
 grimheals,grim,Grimheals,grim
 Gspot,gspot
-guardian Angel,GA,Guardian,ga,guardin angel
+guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 Guyun,Guy,guyun,guy
 Headhunterz,headhunter,head
 HealsFromAbove,Hfa,healsfromabove,hfa
@@ -120,14 +120,15 @@ Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi
 Hostile,hostile
+Hpnotiq,Hpnot,hpnotiq,hpnot
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
-Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur
+Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay
 I Am,Iam,i am,iam
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
-Ilumi,ilumi
+Ilumi,ilumi,Lumi,lumi
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImSoSick,imsosick
@@ -198,7 +199,7 @@ MyWorld1,myworld,Myworld
 Nagatopain,Nagato,nagatopain,nagato
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 NaturesFury,naturesfury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja
+Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik
@@ -238,7 +239,7 @@ Rolling Wood,Rolling,roll,Roll,rolling wood
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
-Saerah Magar,Sae,saerah magar,sae
+Saerah Magar,Sae,saerah magar,sae,Saerah,saerah
 Saraaaa98,Sara,saraaa,sara
 Sasori12,Sasori,sasori,sasori12
 Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
@@ -250,8 +251,8 @@ Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze
 Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie
 Sky Era,sky era
-sneaky beaky,sb,Sneaky beaky,Sb
-Sneakyshadow,Ss,sneakyshadow,ss
+sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
+Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
 Soul Warrior,soul warrior
 soulless,Soulless
@@ -308,7 +309,7 @@ Vortar Tolan,Vortar,vortar tolan,vortar
 Werts00alts,Wert,werts00alts,wert
 Whimsy,whimsy
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white
-Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig
+Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind
