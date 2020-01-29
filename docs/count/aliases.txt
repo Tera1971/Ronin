@@ -121,6 +121,7 @@ HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi
 Hostile,hostile
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
+Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur
 I Am,Iam,i am,iam
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
