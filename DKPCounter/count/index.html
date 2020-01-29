@@ -25,10 +25,10 @@
         function clearOutput() {
             document.getElementById("dkpoutput").value = "";
         }
-		var playerAliases = "princes eliktra,princess eliktra,princs eliktra";
+		var playerAliases = "";
 		
 		var client = new XMLHttpRequest();
-		client.open('GET', 'https://raw.githubusercontent.com/henry-anderson/Ronin/master/docs/count/aliases.txt');
+		client.open('GET', 'aliases.txt');
 		client.onload = function() {
   			playerAliases = client.responseText
 			document.getElementById("playeraliases").value = playerAliases;
@@ -56,19 +56,19 @@ client.send();
         <div style="margin:10px;float:left;">
         <b>Instructions</b>
         <br />
-        This is a web page for counting "Dragon Kill Points" for Ronin. To begin you will need to download the desktop application, <a href="">Line Messenger</a>.
+        This is a web page for counting "Dragon Kill Points" for Novalis. To begin you will need to download the desktop application, <a href="">Line Messenger</a>.
         <br />
-        Login and navigate to the Ronin group where screenshots of bosses are posted. It is currently named "[DKP] BOSSES"
+        Login and navigate to the group where screenshots of bosses are posted.
         <br />
         Select everything in that group since the last count, copy, and paste it into the textbox on the left side. Line will add timestamps and other noise to messages in that group but they can be filtered out.
         <p />
-        Pressing "Count DKP" will count up all the points and display them in the "Name, points" format
+        Pressing "Count DKP" will count up all the points and display them in the "name, points" format
         <br/>
         Pressing "Format" will filter out everything except for the lines following the correct syntax. This can be used to debug why some players aren't getting an accurate amount of points.
         <p />
-        This script counts points based on messages (not screenshots) following the DKPCounter syntax found <a href="https://github.com/henry-anderson/Ronin/blob/master/DKPCounter/syntax.md">here</a>.
+        This script counts points based on messages (not screenshots) following the DKPCounter syntax found <a href="../syntax.md">here</a>.
         <br />
-        Points awarded for each boss can be found <a href="https://github.com/henry-anderson/Ronin/blob/master/DKPCounter/points.md">here</a>.
+        Points awarded for each boss can be found <a href="../points.md">here</a>.
 
         <p />
         <b>Awarding on WebDKP</b>

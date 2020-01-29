@@ -2,7 +2,12 @@ function BossPointParser(line) {
     this.line = line.toLowerCase();
     let splitOn = this.line.split(" on ");
     let first = splitOn[0];
-    this.players = splitOn[1].split(",");
+    if(splitOn[1].includes(".")) {
+        this.players = splitOn[1].split(".");
+    }
+    else {
+        this.players = splitOn[1].split(",");
+    }
     let keywords = first.split(" ");
     this.boss = getBoss(keywords[0]);
     this.stars = parseInt(keywords[1]);
@@ -24,9 +29,10 @@ function LevelPointParser(line) {
     this.player = splitOn[1];
     let keywords = first.split(" ");
     this.bonusType = getBonusType(keywords[0]);
+    this.levels = keywords[1];
     let startLevel = parseInt(keywords[1].split("-")[0]);
     let endLevel = parseInt(keywords[1].split("-")[1]);
-	this.levels = endLevel - startLevel;
+	this.levelsInt = endLevel - startLevel;
 }
 
 function lineContainsBoss(line) {
@@ -131,12 +137,10 @@ function formatInput(text, playerAliases) {
 				}
 				else if(bonusType === BonusType.LEVEL && syntax.includes("-")) {
 					let levels = syntax.split(" ")[1];
-					let startLevel = parseInt(levels.split("-")[0]);
-    				let endLevel = parseInt(levels.split("-")[1]);
-					if(startLevel >= 155 && startLevel < endLevel && endLevel <= 240) {
-		    			let formattedLine = (bonusTypeAlias + syntax.split(bonusTypeAlias, 2)[1]) + " on " + players;
-		    			formatted += formattedLine + "\n";
-					}
+					if(isValidLevelBonus(levels)) {
+					    let formattedLine = (bonusTypeAlias + syntax.split(bonusTypeAlias, 2)[1]) + " on " + players;
+					    formatted += formattedLine + "\n";
+                    }
 				}
 	    	}
         }

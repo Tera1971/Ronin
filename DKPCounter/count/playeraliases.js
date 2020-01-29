@@ -8,19 +8,21 @@ function loadAliases(text) {
 		let commaSplit = line.split(",");
 		let player = commaSplit[0].trim();
 		let aliases = line.replace(player + ",", "").split(",");
+		aliases = aliases.map(function (el) {
+			return el.trim().toLowerCase();
+		});
 		playerMap.set(player, aliases);
 	}
 }
 
 function getPlayerFromAlias(aliasInput) {
 	for (let [player, aliases] of playerMap) {
-		//let aliases = playerMap.get(player);
-		if(player == aliasInput) {
+		if(player.toLowerCase() == aliasInput.toLowerCase()) {
 			return player
 		}
 		for(let i = 0; i < aliases.length; i++) {
 			let alias = aliases[i];
-			if(aliasInput == alias) {
+			if(aliasInput.toLowerCase() == alias.toLowerCase()) {
 				return player;
 			}
 		}
