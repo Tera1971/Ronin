@@ -128,7 +128,7 @@ iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
-Ilumi,ilumi,Lumi,lumi
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImSoSick,imsosick
