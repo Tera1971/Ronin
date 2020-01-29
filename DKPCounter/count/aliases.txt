@@ -58,6 +58,7 @@ Dab,dab
 Dabstar,dabstar
 DaedricLord,dae
 DaedricPrince
+Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
 Darkly,Dark,darkly,dark
 Darouin,darouin
