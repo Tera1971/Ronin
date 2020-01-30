@@ -96,7 +96,7 @@ FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
 Fondue,fondue
 Formal,formal
 franko,Franko,frank
-Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz
+Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze
 FuriousRogue
 Galio,galio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
@@ -128,7 +128,7 @@ iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImSoSick,imsosick
@@ -164,7 +164,7 @@ LlamaHunter,Llama,llamahunter,llama
 Lock Block,lock block
 LockBlock,lockblock
 Longgg,Longg,Long,longgg,longg,long
-LookAtme,lookatme
+LookAtme,lookatme,look,Look
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
 Luminous,Lumin,Lum,luminous,lumin,lum
@@ -177,7 +177,7 @@ Mancan,mancan
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark
 Marknato,marknato,Nato,nato
-Michaelangelo,Mich,michaelangelo,mich
+Michaelangelo,Mich,michaelangelo,mich,much
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd
 Miss Angelina,Angelina,miss angelina,angelina
@@ -189,14 +189,14 @@ Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
 Mr. Frog,MrFrog,mr. frog,Frog,frog
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
-MrRogue,Mr,mrrogue,mr
+MrRogue,Mr,mrrogue,mr,mrrouge
 Msboby,msboby
 Mukk,Muk,mukk,muk
 MukkDruid,mukkdruid
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
-Nagatopain,Nagato,nagatopain,nagato
+Nagatopain,Nagato,nagatopain,nagato,nag
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 NaturesFury,naturesfury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808
@@ -232,7 +232,7 @@ Rickstyle,Rick,rickstyle,rick
 RitZ1,Ritz,Rit,ritz1,ritz,rit
 Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
 Robin Hood,Robin,robin hood,robin
-Roda,roda,
+Roda,roda
 Roguepower,Rp,roguepower,rp
 Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood
@@ -268,7 +268,7 @@ Stirstix,Stir,stirstix,stir
 Sundown,Sun,sundown,sun
 Swish,swish
 Swishy,swishy
-Tanjiro,Tan,Tanj,tanjiro,tanj,tan
+Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro
 Tank of Mabon,tank of mabon
 tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
