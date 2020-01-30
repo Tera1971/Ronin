@@ -254,8 +254,8 @@ Sky Era,sky era
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
-Soul Warrior,soul warrior
-soulless,Soulless
+Soul Warrior,soul warrior,Sw,sw
+soulless,Soulless,Soul,soul
 Spacemaker 300,Spacemaker
 SpartanIII,Spartan
 Spiritaldeath,spiritaldeath
