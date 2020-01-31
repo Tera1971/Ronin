@@ -12,7 +12,7 @@ Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp
-AmritaAnanda,amrita,rita
+AmritaAnanda,amrita,rita,amarita,Amarita
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,
@@ -44,7 +44,7 @@ Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
 ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
 Charlesr9,Charles,charlesr9,charles
 CheeksMcGee,Cheeks,cheeksmcgee,cheeks
-Cheering T,Cheering,Cheer,cheering t,cheering,cheer
+Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
 Chinook,Chin,chinook,chin
 Chipmunk,Chip,chipmunk,chip
 Chokachi
@@ -121,7 +121,7 @@ Helldiver,Hell,helldiver,hell
 HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
 Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi
 Hostile,hostile
-Hpnotiq,Hpnot,hpnotiq,hpnot
+Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
 Hunter45,Hunter,Hunt,hunter45,hunter,hunt
 Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay
 I Am,Iam,i am,iam
@@ -145,7 +145,7 @@ Kefla,kefla,Kef,kef
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 Kos,kos
-Kvothekalos,Kvo,kvothekalos,kvo
+Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
 Lady Anarchy,lady anarchy
 Lady Lock,lady lock
 LadyFate,ladyfate
@@ -226,7 +226,7 @@ Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
 Razt,razt
-Redish,Red,redish,red
+Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
 Revive,revive
 Rickstyle,Rick,rickstyle,rick
@@ -341,3 +341,4 @@ Zeero,Zero,zeero,zero
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
+
