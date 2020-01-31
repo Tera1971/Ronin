@@ -183,7 +183,7 @@ Misdemeanor,Misd,misdemeanor,misd
 Miss Angelina,Angelina,miss angelina,angelina
 Missfired,missfired
 MisterWC,Mrwc,misterwc,mrwc
-Mo Mo,Momo,mo mo,momo,
+Mo Mo,Momo,mo mo,momo,Mo,mo
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
