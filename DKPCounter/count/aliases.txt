@@ -1,4 +1,3 @@
-
 000000000000000,00000,0000,000,00,0
 00Zedd00,Zedd,Zed,zed,zedd
 0Zeus0,Zeus,zeus
@@ -22,7 +21,7 @@ Athlete,Lete,athlete,lete
 Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 Bashbashbash,Bash,Bashbashbash,bash
-Beattz,Beat,beattz,beat
+Beattz,Beat,beattz,beat,beatzz
 Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
@@ -168,7 +167,7 @@ Longgg,Longg,Long,longgg,longg,long
 LookAtme,lookatme,look,Look
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum
+Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious
 Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
 Macky
 Madara Uchiha,Madara,madara urchiha,madara
@@ -255,7 +254,7 @@ Sky Era,sky era
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
 Sobriety,Sob,sobriety,sob
-Soul Warrior,soul warrior,Sw,sw
+Soul Warrior,soul warrior,Sw,sw,soulwarrior
 soulless,Soulless,Soul,soul
 Spacemaker 300,Spacemaker
 SpartanIII,Spartan
@@ -341,5 +340,3 @@ Zeero,Zero,zeero,zero
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
-
-
