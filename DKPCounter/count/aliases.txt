@@ -97,7 +97,7 @@ Fondue,fondue
 Formal,formal
 franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
-FuriousRogue
+FuriousRogue,Furi,furi,Furious,furious
 Galio,galio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
@@ -187,7 +187,7 @@ Mo Mo,Momo,mo mo,momo,Mo,mo
 Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
-Mr. Frog,MrFrog,mr. frog,Frog,frog
+Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrRogue,Mr,mrrogue,mr,mrrouge
 Msboby,msboby
