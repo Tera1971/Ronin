@@ -249,7 +249,7 @@ SerialKilla,Killa,serialkilla,killa
 Shoyo,shoyo,Sho,sho
 Silent blade,Silent,silent blade,silent
 Sk33ze,sk33ze,Skeeze,skeeze
-Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie
+Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,skullkrusher,Skullrusher
 Sky Era,sky era
 sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
 Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
