@@ -274,13 +274,13 @@ tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
 TerminNater,Term,Terminnater,terminater,term
 Terz,terz
-The Dark Man,Tdm,the dark man,tdm
+The Dark Man
 The Darkness,Darkness,the darkness,darkness
 The Diz,Diz,the diz,diz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler
 The Last Ranger,the last ranger
-TheDarkMan,thedarkman
+TheDarkMan,thedarkman,Tdm,the dark man,tdm
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
