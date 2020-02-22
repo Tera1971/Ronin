@@ -106,6 +106,7 @@ Garein,garein
 Ghostshot,Ghost,ghostshot,ghost
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
+g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
 Goonch,goonch
 Goonsquad,goonsquad
 Grimalkin,grimalkin
