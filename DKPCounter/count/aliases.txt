@@ -190,6 +190,7 @@ Montagne,montagne
 Mooooshi,Mooshi,mooooshi,mooshi
 Morgatha,Morg,morgatha,morg
 Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
+Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrRogue,Mr,mrrogue,mr,mrrouge
 Msboby,msboby
