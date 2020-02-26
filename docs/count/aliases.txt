@@ -26,7 +26,7 @@ Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
-Black Cobra
+Black Cobra,black cobra,Bc,bc,BC,
 BlazinStar,blazinstar,Blazin,blazin
 BlueGlow
 Bobymage,Boby,bobymage,boby
