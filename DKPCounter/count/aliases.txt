@@ -27,6 +27,7 @@ Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
 Bill Gryll,Bill,bill gryll,bill
 Black Cobra
+BlazinStar,blazinstar,Blazin,blazin
 BlueGlow
 Bobymage,Boby,bobymage,boby
 bone7
@@ -41,6 +42,7 @@ Bunibuns,bunibuns,Buni,buni
 Butcher629,Butcher,Butch,butcher629,butcher,butch
 Buttermybuns,Butter,buttermybuns,butter
 Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
+Chainz,chainz,Chains,chains
 ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
 Charlesr9,Charles,charlesr9,charles
 CheeksMcGee,Cheeks,cheeksmcgee,cheeks
@@ -334,10 +336,12 @@ xTooxBlackx,Black,black
 xxdarkroguexx,dr
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg
+XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
 Ysana Pembroke,Ysana,ysana
 Yuh1,Yuh,yuh
+Zafira,zafira,Fira,fira
 Zahid,zahid
 Zealot,Z,Zea,zealot,z,zea
 Zeero,Zero,zeero,zero
