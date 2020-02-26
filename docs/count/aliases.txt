@@ -87,7 +87,7 @@ Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
 Episode,Epi,episode,epi
 Eski Mofo,Eski,Mofo,eski mofo,eski
 Ethan,ethan
-Exio,exio
+Exio,exio,Ex,ex
 False,false
 Fei,Fie,fei,fie
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
