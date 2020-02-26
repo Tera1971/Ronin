@@ -110,7 +110,7 @@ Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
 g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
 Goonch,goonch
-Goonsquad,goonsquad
+Goonsquad,goonsquad,goon
 Grimalkin,grimalkin
 grimheals,grim,Grimheals,grim
 Gspot,gspot
