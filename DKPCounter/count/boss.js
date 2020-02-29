@@ -226,7 +226,7 @@ const Boss = {
 
     /** Legacies **/
     LEGACY_150: {
-        aliases: ["legacy150", "legacy_150", "witchfinder", "hopkins", "comrack", "akais", "hurricanes", "typhoons", "garyn", "devestator", "jalan", "paradai", "blizzardgore", "synak"],
+        aliases: ["legacy150", "legacy_150", "witchfinder", "hopkins", "comrack", "akais", "hurricanes", "typhoons", "garyn", "devestator", "jalan", "paradai", "blizzardgore", "synak", "mono"],
         points: {
             camp: 0,
             kill4: 0,
@@ -235,7 +235,7 @@ const Boss = {
         }
     },
     LEGACY_180: {
-        aliases: ["legacy180", "legacy_180", "natan", "athatch", "garanak", "gara", "urchaid", "maelstrom", "whirlwinds", "whirlwind", "smolach", "annihilator", "skain", "osan", "blight", "tomb"],
+        aliases: ["legacy180", "legacy_180", "natan", "athatch", "garanak", "gara", "urchaid", "maelstrom", "whirlwinds", "whirlwind", "smolach", "annihilator", "skain", "osan", "blight", "tomb", "mono"],
         points: {
             camp: 0,
             kill4: 0,
