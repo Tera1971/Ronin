@@ -331,7 +331,7 @@ xRedJamiex,Jamie,red jamie,jamie
 xResonatex,Res,resonate,res
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm
 xSweetiex,Sweetie,sweetie
-xTimurx,Tim,timur,tim
+xTimurx,Tim,timur,tim,XT,xt,Xt,xT
 xTooxBlackx,Black,black
 xxdarkroguexx,dr
 xxLovelyRoguexx,Lovely,lovely
