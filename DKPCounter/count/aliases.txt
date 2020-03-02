@@ -65,6 +65,7 @@ Daric Pierce,Daric,daric pierce,daric
 Darkly,Dark,darkly,dark
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
+DailyDouble,dailydouble,daily,Daily,DD,dd
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
 Dementia,Dem,dementia,dem

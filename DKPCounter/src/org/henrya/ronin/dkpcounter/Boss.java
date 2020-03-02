@@ -31,7 +31,7 @@ public enum Boss {
 	PROTEUS_BASE(new String[] {"proteusbase", "proteus_base", "protb", "base"}, 0, new int[] {0, 0, 100}),
 	PROTEUS_PRIME(new String[] {"proteusprime", "proteus_prime", "protp", "prime"}, 0, new int[] {0, 0, 150}),
 	GELEBRON(new String[] {"gelebron", "gele", "gel"}, 0, new int[] {0, 0, 200}),
-	BLOODTHORN(new String[] {"bloodthorn", "bt", "blood", "thorn"}, 0, new int[] {0, 0, 500}),
+	BLOODTHORN(new String[] {"bloodthorn", "bt", "blood", "thorn"}, 0, new int[] {0, 0, 250}),
 	Dhiothu(new String[] {"Dino", "dt"}, 0, new int[] {0, 0, 300}),
 
 	/* Arcane and Gardens extra */
