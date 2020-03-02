@@ -321,7 +321,7 @@ Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind
 xBast,Bast,xbast,bast
-XBlackCobraX,Cobra,xblackcobrax,cobra
+XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
 Xde,xde
 XdiabloX,diablo
@@ -333,7 +333,7 @@ xResonatex,Res,resonate,res
 xRougeMasterx,Rouge,RM,roguemaster,rogue,rm
 xSweetiex,Sweetie,sweetie
 xTimurx,Tim,timur,tim,XT,xt,Xt,xT
-xTooxBlackx,Black,black
+xTooxBlackx
 xxdarkroguexx,dr
 xxLovelyRoguexx,Lovely,lovely
 XxMlgClutchxX,Mlg,mlg
