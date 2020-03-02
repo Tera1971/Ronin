@@ -64,6 +64,7 @@ DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
 Darkly,Dark,darkly,dark
+DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 DailyDouble,dailydouble,daily,Daily,DD,dd
@@ -212,7 +213,7 @@ Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik
 Noblesse,noblesse
 Nyx,nyx
-Oblivion,oblivion
+Oblivion,oblivion,0b,Ob,ob,OB
 OG Mudbone,OG,og mudbone,og
 Omega,Megs,Mega,omega,megs,mega
 Ooflol,Oof,ooflol,oof
@@ -271,6 +272,7 @@ Squirts,squirts
 Squirtz,squirtz
 Stabetha,stabetha
 Starrynight54,starrynight54
+Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
 Sundown,Sun,sundown,sun
 Swish,swish
