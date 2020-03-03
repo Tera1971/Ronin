@@ -267,7 +267,7 @@ soulless,Soulless,Soul,soul
 Spacemaker 300,Spacemaker
 SpartanIII,Spartan
 Spiritaldeath,spiritaldeath
-Squirrel,squirrel,squirel
+Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
 Squirtz,squirtz
 Stabetha,stabetha
