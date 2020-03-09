@@ -12,6 +12,7 @@ AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp
 AmritaAnanda,amrita,rita,amarita,Amarita
+Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
 Aphrodite,Aphro,aphrodite,aphro,
@@ -108,6 +109,7 @@ Galio,galio
 GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
 Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
+Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
@@ -141,6 +143,7 @@ ImAGoon,imagoon,goon
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Interruption,Interrupt,Inter,interruption,interrupt,inter
+ItsNotGebu,itsnotgebu,ING,ing
 Itxaro,itxaro
 Ivan Drago,Ivan,ivan drago,ivan
 Jnors,jnors,Jnor,jnor
@@ -343,6 +346,7 @@ XxMlgClutchxX,Mlg,mlg
 XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
 xxWarcrusherxx,War,warcrusher,war
 YAMUM101,YAMUM,Mum,mum,yamum,yamom
+YourHero,yourhero,YH,yh,Yh,yH
 Ysana Pembroke,Ysana,ysana
 Yuh1,Yuh,yuh
 Zafira,zafira,Fira,fira
