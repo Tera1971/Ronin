@@ -21,6 +21,7 @@ AsianKidXX,Asian,Asia,asiankid,asian,asia
 Athlete,Lete,athlete,lete
 AxeYouAQuestion,axeyouaquestion,Axe,axe
 Azena,azena,Zena,zena
+Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 Bashbashbash,Bash,Bashbashbash,bash
@@ -154,6 +155,7 @@ Katrek,katrek
 Kefla,kefla,Kef,kef
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
+K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
 Kos,kos
 Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
 Lady Anarchy,lady anarchy
@@ -293,7 +295,7 @@ The Diz,Diz,the diz,diz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler
 The Last Ranger,the last ranger
-TheDarkMan,thedarkman
+TheDarkMan,thedarkman,tdm,Tdm,TDM
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
