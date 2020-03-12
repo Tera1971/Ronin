@@ -9,6 +9,7 @@ Aetna,aetna
 Ajentj,ajentj,aj,Aj
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
+Alcohol,alcohol,Alchol,alchol
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp
 AmritaAnanda,amrita,rita,amarita,Amarita
@@ -191,6 +192,7 @@ Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark
 Marknato,marknato,Nato,nato
+Medical,medical,Med,med
 Michaelangelo,Mich,michaelangelo,mich,much
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
 Misdemeanor,Misd,misdemeanor,misd
@@ -286,6 +288,7 @@ Swish,swish
 Swishy,swishy
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro
 Tank of Mabon,tank of mabon
+Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
 TerminNater,Term,Terminnater,terminater,term
