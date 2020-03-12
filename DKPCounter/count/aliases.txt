@@ -187,6 +187,7 @@ Madara Uchiha,Madara,madara urchiha,madara
 Maga,Mag,maga,mag
 Mana Ogilvie,Mana,mana ogilvie,mana
 Mancan,mancan
+Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark
 Marknato,marknato,Nato,nato
@@ -289,7 +290,6 @@ tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
 TerminNater,Term,Terminnater,terminater,term
 Terz,terz
-The Dark Man,Tdm,the dark man,tdm
 The Darkness,Darkness,the darkness,darkness
 The Diz,Diz,the diz,diz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
