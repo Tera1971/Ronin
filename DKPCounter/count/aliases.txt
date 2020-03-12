@@ -52,6 +52,7 @@ ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
 Charlesr9,Charles,charlesr9,charles
 CheeksMcGee,Cheeks,cheeksmcgee,cheeks
 Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
+Chele,chele
 Chinook,Chin,chinook,chin
 Chipmunk,Chip,chipmunk,chip
 Chokachi
@@ -308,6 +309,7 @@ Tiff,tiff
 Tomoko,Tomo,Tom,tomoko,tomo,tom
 TonyTony,Tony,tonytony,tony
 ToxICfire,toxicfire,Tox,tox,Toxic,toxic
+TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
 Ungodly,ungodly
