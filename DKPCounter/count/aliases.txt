@@ -86,7 +86,7 @@ Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
 DrakonicFury,Drakonic,Drak,drak,drakonicFury
-DRUID,druid
+DRUID,druid,DRU1D,dru1d
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
 Dunkinn,Dunk,dunkinn,dunk
