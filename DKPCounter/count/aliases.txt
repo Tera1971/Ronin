@@ -53,6 +53,7 @@ Charlesr9,Charles,charlesr9,charles
 CheeksMcGee,Cheeks,cheeksmcgee,cheeks
 Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
 Chele,chele
+ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
 Chinook,Chin,chinook,chin
 Chipmunk,Chip,chipmunk,chip
 Chokachi
@@ -223,6 +224,7 @@ Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik
 Noblesse,noblesse
+NugNug,nugnug,Nug,nug
 Nyx,nyx
 Oblivion,oblivion,0b,Ob,ob,OB
 OG Mudbone,OG,og mudbone,og
