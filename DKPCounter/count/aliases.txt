@@ -321,6 +321,7 @@ Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val
 Valkyrja,valkyria
+Valyria,valyria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Vestas,vestas
