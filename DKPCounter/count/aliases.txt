@@ -6,6 +6,7 @@
 5inch,inch,5
 Accord,Acc,accord,acc
 Adam09,Adam,adam
+Aemis,aemis
 Aetna,aetna
 Ajentj,ajentj,aj,Aj
 Akimia,akimia,Kimia,kimia,ak,aki
@@ -144,7 +145,7 @@ iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium
+Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
 ImSoSick,imsosick
@@ -367,6 +368,7 @@ Ysana Pembroke,Ysana,ysana
 Yuh1,Yuh,yuh
 Zafira,zafira,Fira,fira
 Zahid,zahid
+Zavier,zavier,Zav,zav
 Zealot,Z,Zea,zealot,z,zea
 Zeero,Zero,zeero,zero
 Zn,zn
