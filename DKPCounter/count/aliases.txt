@@ -109,7 +109,7 @@ Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
 Fondue,fondue
-Formal,formal
+Formal,formal,Form,form
 franko,Franko,frank
 Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
 FuriousRogue,Furi,furi,Furious,furious
@@ -143,6 +143,7 @@ Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursa
 I Am,Iam,i am,iam
 iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
+ICxRogue,icxrogue
 IDRC,idrc
 Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi
@@ -158,6 +159,7 @@ Itxaro,itxaro
 Ivan Drago,Ivan,ivan drago,ivan
 Jnors,jnors,Jnor,jnor
 Kahala,kahala
+Kalina,kalina,Kal,kal
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
 Katrek,katrek
 Kefla,kefla,Kef,kef
@@ -322,7 +324,7 @@ ToxICfire,toxicfire,Tox,tox,Toxic,toxic
 TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
 Tr0jan,Trojan,tr0jan,trojan
 Trev Macla,Trev,trev macla,trev
-Tymur,tymur,Ty,ty
+Tymur,tymur,Ty,ty,Tym,tym
 Ungodly,ungodly
 Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
