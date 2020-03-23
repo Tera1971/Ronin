@@ -18,7 +18,8 @@ AmritaAnanda,amrita,rita,amarita,Amarita
 Angler,angler,Angle,angel
 Amulet,amulet,Amu,amu
 Ankh,ankh,Ank,ank
-Aphrodite,Aphro,aphrodite,aphro,
+Aphrodite,Aphro,aphrodite,aphro
+Armadillo,armadillo,Arma,arma
 Ashley A,Ashley,Ash,ashley a,ashley,ash
 AsianKidXX,Asian,Asia,asiankid,asian,asia
 Athlete,Lete,athlete,lete
@@ -219,6 +220,7 @@ MrRogue,Mr,mrrogue,mr,mrrouge
 Msboby,msboby
 Mukk,Muk,mukk,muk
 MukkDruid,mukkdruid
+MutedGirl,mutedgirl,Mute,mute
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
