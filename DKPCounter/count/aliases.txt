@@ -240,7 +240,7 @@ OwO,owo,0w0
 OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
-PEHLIVANBE,Pehli,pehlivanbe,pehli
+PEHLIVANBEY,Pehli,pehlivanbey,pehli
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 ProteinChipmunk,Protein,proteinchipmunk,protein
 Proteus Prime,Prot,proteus prime,prot
@@ -287,7 +287,7 @@ Soul Warrior,soul warrior,Sw,sw,soulwarrior
 soulless,Soulless,Soul,soul
 Spacemaker 300,Spacemaker
 SpartanIII,Spartan
-Speedz,speedz,Speed,speed
+Speedz,speedz,Speed,speed,Sz,sz
 Spiritaldeath,spiritaldeath
 Squirrel,squirrel,squirel,Squirrrrel,squirrrel
 Squirts,squirts
