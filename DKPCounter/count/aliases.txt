@@ -220,7 +220,7 @@ MrRogue,Mr,mrrogue,mr,mrrouge
 Msboby,msboby
 Mukk,Muk,mukk,muk
 MukkDruid,mukkdruid
-MutedGirl,mutedgirl,Mute,mute.Muted,muted
+MutedGirl,mutedgirl,Mute,mute,Muted,muted
 MyLockNow,Mln,mylocknow,mln
 Mythic,mythic
 MyWorld1,myworld,Myworld
