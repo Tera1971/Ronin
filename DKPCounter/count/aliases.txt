@@ -72,7 +72,7 @@ DaedricLord,dae
 DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
-Darkly,Dark,darkly,dark
+Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
@@ -313,7 +313,7 @@ The Diz,Diz,the diz,diz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
 The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler
 The Last Ranger,the last ranger
-TheDarkMan,thedarkman,tdm,Tdm,TDM
+TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
 TheFuture,Future,thefuture,future
 TheLastRouge,Tlr,tlr
 Thermal Healz,thermal healz,thermalhealz,thermalheals
