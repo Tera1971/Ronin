@@ -109,6 +109,7 @@ Firecrotch,Fire,firecrotch,fire
 Fired,fired
 Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
+Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
 Formal,formal,Form,form
 franko,Franko,frank
