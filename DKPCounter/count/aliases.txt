@@ -147,7 +147,7 @@ iceiceice,ice,Iceiceice,Ice
 iCrit,Icrit
 ICxRogue,icxrogue
 IDRC,idrc
-Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill,
+Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
@@ -229,6 +229,7 @@ Nagatopain,Nagato,nagatopain,nagato,nag
 NameMyHero,Nmh,Hero,namemyhero,nmh,hero
 NaturesFury,naturesfury
 Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj
+NeonLights,neonlights,Neon,neon
 Nick629,Nick,nick629,nick
 Nightshadow51,nightshadow
 nikhilrajj,Nik,Nikhirajj,nik
@@ -347,6 +348,7 @@ Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
 Vortar Tolan,Vortar,vortar tolan,vortar
 Werts00alts,Wert,werts00alts,wert
 Whimsy,whimsy
+WHITEDEATH,whitedeath,WhiteDeath,Death,death
 Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
 Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
