@@ -337,7 +337,7 @@ Valkyrja,valkyria
 Valyria,valyria
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Ved,ved
+Vedrich McCroy,vedrich mccroy,Ved,ved,Vedrich,vedrich
 Vestas,vestas
 Veto,veto
 Vhen,vhen
