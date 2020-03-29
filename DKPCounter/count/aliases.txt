@@ -29,7 +29,7 @@ Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
 Bashbashbash,Bash,Bashbashbash,bash
-Beattz,Beat,beattz,beat,beatzz
+Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
 Berkanf,Berk,berkan,berk
 BiggieLDN,Big,biggie,big
