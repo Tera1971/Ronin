@@ -159,7 +159,7 @@ ItsNotGebu,itsnotgebu,ING,ing
 ITox,itox,IT,it
 Itxaro,itxaro
 Ivan Drago,Ivan,ivan drago,ivan
-Jnors,jnors,Jnor,jnor
+jnors1,Jnors1,Jnors,jnors
 Kahala,kahala
 Kalina,kalina,Kal,kal
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
