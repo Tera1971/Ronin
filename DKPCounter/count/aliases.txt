@@ -84,7 +84,7 @@ Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil
 Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
 Dima1,Dima,dima1,dima
 Donaldtheduck,Donald,donaldtheduck,donald
-Donatello,Don,donatello,don
+Donatello,Don,donatello,don,Dona,dona
 Doynok,doy,doynok,doy
 Drac1,Darc,drac1,drac
 Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
