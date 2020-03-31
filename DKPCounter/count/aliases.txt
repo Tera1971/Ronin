@@ -165,6 +165,7 @@ Kalina,kalina,Kal,kal
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
 Katrek,katrek
 Kefla,kefla,Kef,kef
+Kellogs,kellogs
 Killmon,Km,killmon,km
 Killshot,Ks,killshot,ks
 K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
