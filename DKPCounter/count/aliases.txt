@@ -128,6 +128,7 @@ Goonch,goonch
 Goonsquad,goonsquad
 Grimalkin,grimalkin
 grimheals,grim,Grimheals,grim
+GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
 Gspot,gspot
 guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
 Guyun,Guy,guyun,guy
