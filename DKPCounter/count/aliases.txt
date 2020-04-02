@@ -167,7 +167,8 @@ jnors1,Jnors1,Jnors,jnors
 Kahala,kahala
 Kalina,kalina,Kal,kal
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
-Katrek,katrek
+Katrak,katrak,rak
+Katrek,katrek,rek
 Kefla,kefla,Kef,kef
 Kellogs,kellogs
 Killmon,Km,killmon,km
