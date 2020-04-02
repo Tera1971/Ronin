@@ -123,6 +123,7 @@ Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
 Garein,garein
 Gebu,gebu
 Ghostshot,Ghost,ghostshot,ghost
+Godflame,godflame,Flame,flame,Gf,gf
 Godstrike,God,Gs,godstrike,god,gs
 GodTank,Gt,godtank,gt
 g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
