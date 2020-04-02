@@ -40,6 +40,7 @@ BlueGlow
 Bobymage,Boby,bobymage,boby
 bone7
 Bonlucky,Bon,bonlucky,bon
+BossMaster,bossmaster,Boss,boss
 Bowner,Bow,Boner,bowner,bow,boner
 Braden Cole,Braden,braden cole,braden,brad
 Brightly,Bright,brightly,bright
@@ -93,6 +94,7 @@ DRUID,druid,DRU1D,dru1d
 Druidz,druidz
 Drunkie,Drunk,drunkie,drunk
 Dunkinn,Dunk,dunkinn,dunk
+Elderboss,elderboss,Eld,eld
 ElDiablo,ElDia,eldiablo,eldia
 EliteHealz,Elite,eliteheals,elite,Eh,eh
 Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
