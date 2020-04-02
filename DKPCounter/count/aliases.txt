@@ -314,6 +314,7 @@ tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
 TerminNater,Term,Terminnater,terminater,term
 Terz,terz
+Thanatus,thanatus,Than,than
 The Darkness,Darkness,the darkness,darkness
 The Diz,Diz,the diz,diz
 The Doctor,Doctor,Doc,the doctor,doctor,doc
