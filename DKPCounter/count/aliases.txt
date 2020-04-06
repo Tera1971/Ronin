@@ -209,6 +209,7 @@ Marijuana,marijuana,Marij,marij,Mari,mari
 Marina1,Mari,marina1,mari
 Markistan3,Mark,markistan3,mark
 Marknato,marknato,Nato,nato
+Master Splinter,master splinter,Splint,splint
 Medical,medical,Med,med
 Michaelangelo,Mich,michaelangelo,mich,much
 Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
@@ -262,6 +263,7 @@ R0,ro,Ro,r0
 Ragz,ragz
 RangedAssassin,RA,rangedassassin,ra
 RangerIT,IT,ranger it,it
+Rapheal,rapheal,Rap,rap
 Razt,razt
 Redish,Red,redish,red,reddish,Reddish
 Redpumpkin,Pumpkin,redpumpkin,pumpkin
@@ -310,6 +312,7 @@ Stirstix,Stir,stirstix,stir
 Sundown,Sun,sundown,sun
 Swish,swish
 Swishy,swishy
+Taborlin,taborlin.Tab,tab
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro
 Tank of Mabon,tank of mabon
 Tankie,tankie,Tanki,tanki
