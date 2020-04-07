@@ -345,7 +345,7 @@ Usuk Muaddib,Usuk,usuk muaddib,usuk
 UwU,uwu
 Valindra,Val,valindra,val
 Valkyrja,valkyria
-Valyria,valyria
+Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Ved,ved
@@ -395,6 +395,7 @@ Zahid,zahid
 Zavier,zavier,Zav,zav
 Zealot,Z,Zea,zealot,z,zea
 Zeero,Zero,zeero,zero
+Zenitsu,zenitsu,Zen,zen
 Zn,zn
 Zodiac X,zodiac
 Zol,zol
