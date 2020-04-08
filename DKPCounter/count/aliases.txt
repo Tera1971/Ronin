@@ -28,6 +28,7 @@ Azena,azena,Zena,zena
 Azenia,azenia,Zenia,zenia
 Azona,azona,Zona,zona,az
 Bangin,Bang,bangin,bang
+BapeLord,bapelord,Bape,bape,Bap,bap
 Bashbashbash,Bash,Bashbashbash,bash
 Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
 Belisama,Beli,belisama,beli,Bel,bel
