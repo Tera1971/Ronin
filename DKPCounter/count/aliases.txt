@@ -318,6 +318,7 @@ Tank of Mabon,tank of mabon
 Tankie,tankie,Tanki,tanki
 tankasaurus,Tankasaurus
 Temperr,Temper,temperr,temper
+Tenacity,tenacity,Ten,ten
 TerminNater,Term,Terminnater,terminater,term
 Terz,terz
 Thanatus,thanatus,Than,than
