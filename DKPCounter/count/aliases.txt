@@ -280,6 +280,7 @@ Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal
+Ruth Walker,ruth walker,Ruth,ruth
 Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
 Saerah Magar,Sae,saerah magar,sae,Saerah,saerah
 Saraaaa98,Sara,saraaa,sara
