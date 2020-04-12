@@ -165,6 +165,7 @@ ITox,itox,IT,it
 Itxaro,itxaro
 Ivan Drago,Ivan,ivan drago,ivan
 jnors1,Jnors1,Jnors,jnors
+JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk
 Kahala,kahala
 Kalina,kalina,Kal,kal
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
@@ -227,6 +228,7 @@ Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
 Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat
 Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
 MrRogue,Mr,mrrogue,mr,mrrouge
+mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
 Msboby,msboby
 Mukk,Muk,mukk,muk
 MukkDruid,mukkdruid
@@ -248,6 +250,7 @@ Nyx,nyx
 Oblivion,oblivion,0b,Ob,ob,OB
 OG Mudbone,OG,og mudbone,og
 Omega,Megs,Mega,omega,megs,mega
+OnlyRogue,onlyrogue,Only,only
 Ooflol,Oof,ooflol,oof
 OwO,owo,0w0
 OzzyFudd,Ozzy,ozzyfud,ozzy
