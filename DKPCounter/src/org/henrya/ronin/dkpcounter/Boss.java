@@ -28,7 +28,7 @@ public enum Boss {
 	MORDRIS(new String[] {"mordris", "mordy", "mord"}, 0, new int[] {0, 0, 60}),
 	EFNISIEN(new String[] {"efnisien", "efni", "necromancer", "necro"}, 0, new int[] {0, 0, 60}),
 	
-	PROTEUS_BASE(new String[] {"proteusbase", "proteus_base", "protb", "base"}, 0, new int[] {0, 0, 100}),
+	PROTEUS_BASE(new String[] {"proteusbase", "proteus_base", "protb", "base"}, 0, new int[] {0, 0, 200}),
 	PROTEUS_PRIME(new String[] {"proteusprime", "proteus_prime", "protp", "prime"}, 0, new int[] {0, 0, 300}),
 	GELEBRON(new String[] {"gelebron", "gele", "gel"}, 0, new int[] {0, 0, 400}),
 	BLOODTHORN(new String[] {"bloodthorn", "bt", "blood", "thorn"}, 0, new int[] {0, 0, 250}),
