@@ -165,7 +165,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 150,
+            kill6: 300,
         }
     },
     GELEBRON: {
