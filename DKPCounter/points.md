@@ -114,15 +114,15 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   </tr>
   <tr>
     <td>Proteus Base</td>
-    <td>200</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>Proteus Prime</td>
-    <td>300</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Gelebron</td>
-    <td>400</td>
+    <td>200</td>
   </tr>
   <tr>
     <td>Bloodthorn</td>

@@ -188,6 +188,7 @@ LazyScy,Lazy,lazyscy,lazy
 Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
+Lendoerl,lendoerl,Len,len,Lend,lend
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
