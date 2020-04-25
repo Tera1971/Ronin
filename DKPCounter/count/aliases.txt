@@ -318,6 +318,7 @@ Starrynight54,starrynight54
 Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
 Stirstix,Stir,stirstix,stir
 Sundown,Sun,sundown,sun
+Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
 Swish,swish
 Swishy,swishy
 Taborlin,taborlin.Tab,tab
@@ -358,7 +359,7 @@ Valyria,valyria,Valy,valy,Valyr,valyr
 Vangtan Laphrog,Vangtan,Vang,vangtan,vang
 Vannee,Van,vannee,van
 Ved,ved
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich
+Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm
 VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr
 Vestas,vestas
 Veto,veto
