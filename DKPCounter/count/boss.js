@@ -192,7 +192,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 300,
+            kill6: 600,
         }
     },
     /** Arcane and Garden extra **/

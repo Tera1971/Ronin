@@ -130,7 +130,7 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   </tr>
   <tr>
     <td>Dhiothu</td>
-    <td>300</td>
+    <td>600</td>
   </tr>
 </table>
 
