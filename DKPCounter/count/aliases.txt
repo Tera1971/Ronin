@@ -109,9 +109,9 @@ Fei,Fie,fei,fie
 Filet Mignon,filet mignon,Filet,filet
 Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
 FireAndFire,Fnf,fireandfire,fnf
-Firecrotch,Fire,firecrotch,fire
+Firecrotch,firecrotch,FC,fc
 Fired,fired
-Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs
+Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs,Fire,fire
 FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
 Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
 Fondue,fondue
