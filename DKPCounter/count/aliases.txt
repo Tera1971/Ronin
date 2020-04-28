@@ -201,6 +201,7 @@ Lock Block,lock block
 LockBlock,lockblock
 Longgg,Longg,Long,longgg,longg,long
 LookAtme,lookatme,look,Look
+LoveIsMe,loveisme,Love,love
 Loyalty,loyalty
 Lucozade,Luco,lucozade,luco
 Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious
@@ -284,6 +285,7 @@ Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
 Roguepower,Rp,roguepower,rp
 Rohin,rohin
 Rolling Wood,Rolling,roll,Roll,rolling wood
+Rosee eh,rosee eh,Rose,rose
 Rosiee,Rose,rosiee,rose
 Royalninja,Royal,royalninja,royal
 Ruth Walker,ruth walker,Ruth,ruth
