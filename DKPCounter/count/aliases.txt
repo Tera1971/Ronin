@@ -157,6 +157,7 @@ Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
 Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi
 Ily2,Ily,ily2,ily
 ImAGoon,imagoon,goon
+ImperialFlame,imperialflame,IF,if
 ImSoSick,imsosick
 ImThatOne1,Ito,imthatone,ito
 Infused,infused,Infuse,infuse
