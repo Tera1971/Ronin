@@ -261,6 +261,7 @@ OzzyFudd,Ozzy,ozzyfud,ozzy
 Painbringer,Pain,painbringer,pain
 Payload,Pay,payload,pay
 PEHLIVANBEY,Pehli,pehlivanbey,pehli
+Petal,petal
 Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
 P J,pj
 ProteinChipmunk,Protein,proteinchipmunk,protein
