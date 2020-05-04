@@ -327,6 +327,7 @@ Swish,swish
 Swishy,swishy
 Taborlin,taborlin.Tab,tab
 Taffy,taffy
+Tagus,tagus
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro
 Tank of Mabon,tank of mabon
 Tankie,tankie,Tanki,tanki
