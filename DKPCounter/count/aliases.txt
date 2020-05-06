@@ -10,9 +10,11 @@ Adam09,Adam,adam
 Aemis,aemis
 Aetna,aetna
 Ajentj,ajentj,aj,Aj
+Akeno,akeno
 Akimia,akimia,Kimia,kimia,ak,aki
 AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
 Alcohol,alcohol,Alchol,alchol
+Aleister,aleister,Ale,ale
 ALODIA,alodia,alo
 Alpi,alpi,Alp,alp
 AmritaAnanda,amrita,rita,amarita,Amarita
@@ -170,6 +172,7 @@ jnors1,Jnors1,Jnors,jnors
 JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk
 Kahala,kahala
 Kalina,kalina,Kal,kal
+Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan
 Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
 Katrak,katrak,rak
 Katrek,katrek,rek
@@ -189,12 +192,14 @@ LazyScy,Lazy,lazyscy,lazy
 Ledion,Led,ledion,led
 Leemaster,Lee,leemaster,lee
 Legend moka,Legend,Moka,legend moka,legend,moka
+Leililani,leililani,Leil,leil,Lei,lei
 Lendoerl,lendoerl,Len,len,Lend,lend
 Lethality,Lethal,Leth,lethality,lethal,leth
 LewTheGod,lew
 LiamX,Liam,liamx,liam
 Lifebonds,Lb,lifebonds,lb
 LifeGuard,Lg,lifeguard,lg
+Lilani,lilani,Lil,lil
 LittleH,H,little h,h
 Livid,livid
 LlamaHunter,Llama,llamahunter,llama
@@ -327,7 +332,7 @@ Swish,swish
 Swishy,swishy
 Taborlin,taborlin.Tab,tab
 Taffy,taffy
-Tagus,tagus
+Tagus,tagus,Tag,tag
 Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro
 Tank of Mabon,tank of mabon
 Tankie,tankie,Tanki,tanki
@@ -383,6 +388,7 @@ Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
 Wilding,Wild,wilding,wild
 Wind Dancer,wind dancer
 Windward,Wind,windward,wind
+Wiro,wiro
 xBast,Bast,xbast,bast
 XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
 XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
