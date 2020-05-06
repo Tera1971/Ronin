@@ -78,7 +78,7 @@ DaedricPrince
 Dakuna,Dak,dakuna,dak
 Daric Pierce,Daric,daric pierce,daric
 Darkly,darkly
-DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing
+DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
 DailyDouble,dailydouble,daily,Daily,DD,dd
