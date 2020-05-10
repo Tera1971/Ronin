@@ -4,6 +4,7 @@
 00Zedd00,Zedd,Zed,zed,zedd
 0Zeus0,Zeus,zeus
 1Eleven1,11,eleven
+2Quick,2quick,TooQuick,tooquick,ToQuick
 5inch,inch,5
 Accord,Acc,accord,acc
 Adam09,Adam,adam
@@ -50,6 +51,7 @@ Bowner,Bow,Boner,bowner,bow,boner
 Braden Cole,Braden,braden cole,braden,brad
 Brightly,Bright,brightly,bright
 Brkn2013,Brkn,brkn2013,brkn
+Bryan33,bryan33,Bryan,bryan
 Buffy,Buff,Buf,buffy,buff,buf
 Buj4nski,Buj,buj4nski,buj
 Bunibuns,bunibuns,Buni,buni
@@ -82,6 +84,7 @@ Darkly,darkly
 DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
 Darouin,darouin
 DaveTheWizard,Dave,davethewizard,dave
+Dayanara,dayanara,Day,day
 DailyDouble,dailydouble,daily,Daily,DD,dd
 Dead Inside,Dead,dead inside,dead
 Death Spite,Death,deathspite,death
@@ -416,6 +419,7 @@ Yuh1,Yuh,yuh
 Zafira,zafira,Fira,fira
 Zahid,zahid
 Zavier,zavier,Zav,zav
+Zapp,zapp,Zap,zap
 Zealot,Z,Zea,zealot,z,zea
 Zeero,Zero,zeero,zero
 Zenitsu,zenitsu,Zen,zen
