@@ -5,45 +5,45 @@ const Boss = {
         aliases: ["155", "spider", "spidey", "ulrob"],
         points: {
             camp: 0,
-            kill4: 0,
-            kill5: 0,
-            kill6: 0,
+            kill4: 5,
+            kill5: 10,
+            kill6: 15,
         }
     },
     DL_160: {
         aliases: ["160", "priest"],
         points: {
             camp: 0,
-            kill4: 0,
-            kill5: 0,
-            kill6: 10,
+            kill4: 5,
+            kill5: 10,
+            kill6: 15,
         }
     },
     DL_165: {
         aliases: ["165", "king"],
         points: {
             camp: 0,
-            kill4: 0,
-            kill5: 0,
-            kill6: 10,
+            kill4: 5,
+            kill5: 10,
+            kill6: 20,
         }
     },
     DL_170: {
         aliases: ["170", "sreng", "bolg"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 50,
+            kill4: 10,
+            kill5: 20,
+            kill6: 30,
         }
     },
     DL_180: {
         aliases: ["180", "snorri", "snor", "snorr", "troll"],
         points: {
             camp: 0,
-            kill4: 5,
-            kill5: 15,
-            kill6: 50,
+            kill4: 15,
+            kill5: 30,
+            kill6: 40,
         }
     },
 
@@ -53,8 +53,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill5: 10,
+            kill6: 20,
         }
     },
     EDL_190: {
@@ -62,8 +62,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill5: 10,
+            kill6: 20,
         }
     },
     EDL_195: {
@@ -71,8 +71,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill5: 10,
+            kill6: 20,
         }
     },
     EDL_200: {
@@ -80,8 +80,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 15,
-            kill6: 25,
+            kill5: 10,
+            kill6: 20,
         }
     },
     EDL_205: {
@@ -89,25 +89,25 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 10,
-            kill5: 30,
-            kill6: 60,
+            kill5: 20,
+            kill6: 30,
         }
     },
     EDL_210: {
         aliases: ["210", "revenant", "anguish"],
         points: {
             camp: 0,
-            kill4: 10,
+            kill4: 15,
             kill5: 30,
-            kill6: 60,
+            kill6: 50,
         }
     },
     EDL_215: {
         aliases: ["215", "unox", "eye"],
         points: {
             camp: 0,
-            kill4: 10,
-            kill5: 30,
+            kill4: 20,
+            kill5: 40,
             kill6: 60,
         }
     },
@@ -119,7 +119,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 0,
+            kill6: 50,
         }
     },
     HRUNGNIR: {
@@ -128,7 +128,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 40,
+            kill6: 75,
         }
     },
     MORDRIS: {
@@ -137,7 +137,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 60,
+            kill6: 100,
         }
     },
     EFNISIEN: {
@@ -146,7 +146,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 60,
+            kill6: 100,
         }
     },
 
@@ -183,7 +183,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 250,
+            kill6: 200,
         }
     },
     DHIOTHU: {
@@ -192,7 +192,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 300,
+            kill6: 250,
         }
     },
     /** Arcane and Garden extra **/
@@ -201,8 +201,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 20,
-            kill6: 30,
+            kill5: 25,
+            kill6: 50,
         }
     },
     FACTIONS: {
@@ -211,7 +211,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 20,
+            kill6: 50,
         }
     },
     BLOODTHORN_ROOT: {
@@ -219,7 +219,7 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 20,
+            kill5: 50,
             kill6: 0,
         }
     },
@@ -230,8 +230,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 0,
-            kill6: 0,
+            kill5: 25,
+            kill6: 50,
         }
     },
     LEGACY_180: {
@@ -239,8 +239,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 20,
-            kill6: 30,
+            kill5: 50,
+            kill6: 100,
         }
     },
 };

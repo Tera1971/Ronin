@@ -109,7 +109,7 @@ public class WebDKPSession {
 		HttpRequest request = new HttpPost(url);
 		this.client.addParameter("ajax", "AddPlayer");
 		this.client.addParameter("name", name);
-		this.client.addParameter("playerguild", "Novalis");
+		this.client.addParameter("playerguild", "Mythic Legends");
 		this.client.addParameter("playerclass", "Warrior");
 		this.client.addParameter("dkp", String.valueOf(amount));
 		this.client.send(request);

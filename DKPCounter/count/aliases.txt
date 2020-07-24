@@ -1,446 +1,177 @@
-0blivion,Oblivion,0b,Ob,oblivion,ob,0bliv,Obliv,obliv
-000000000000000,00000,0000,000,00,0
-21
-00Zedd00,Zedd,Zed,zed,zedd
-0Zeus0,Zeus,zeus
-1Eleven1,11,eleven
-2Quick,2quick,TooQuick,tooquick,ToQuick,2quik
-5inch,inch,5
-Accord,Acc,accord,acc
-Adam09,Adam,adam
-Aemis,aemis
-Aetna,aetna
-Ahava,aha
-Ajentj,ajentj,aj,Aj
-Akeno,akeno
-Akimia,akimia,Kimia,kimia,ak,aki
-AlbusDumbledore,Albus,Al,Alb,albus,albi,al,alb
-Alcohol,alcohol,Alchol,alchol
-Aleister,aleister,Ale,ale
-ALODIA,alodia,alo
-Alpi,alpi,Alp,alp
-AmritaAnanda,amrita,rita,amarita,Amarita
-Angler,angler,Angle,angel
-Amulet,amulet,Amu,amu
-Ankh,ankh,Ank,ank
-Aphrodite,Aphro,aphrodite,aphro,aphrodit3,aph,aphr0dit3
-Architect,archi,arch,arc
-Armadillo,armadillo,Arma,arma,arna
-Ashley A,Ashley,Ash,ashley a,ashley,ash
-AsianKidXX,Asian,Asia,asiankid,asian,asia
-Asteria,aster,ast,asteris,asteria lunakis,asteri,astoria
-Athlete,Lete,athlete,lete
-Avalon2,avalon2,Avalon,avalon,Ava,ava
-AxeYouAQuestion,axeyouaquestion,Axe,axe
-Azena,azena,Zena,zena
-Azenia,azenia,Zenia,zenia
-Azona,azona,Zona,zona,az
-Bangin,Bang,bangin,bang
-BapeLord,bapelord,Bape,bape,Bap,bap
-Bashbashbash,Bash,Bashbashbash,bash
-Beattz,Beat,beattz,beat,beatzz,Beatz,beatz
-Belisama,Beli,belisama,beli,Bel,bel
-Berkanf,Berk,berkan,berk
-BiggieLDN,Big,biggie,big
-Bill Gryll,Bill,bill gryll,bill
-Black Cobra
-BlazinStar,blazinstar,Blazin,blazin
+CyberBully,Cyber,Cyberbully,cyber,cyber
+DAKARLCHAP,Karl,dakarlchap,Karl
+Interruption,Inter,interruption,inter
+spirtmage,Spirtmage,Spirt,spirt
+Cyber Noob,cyber noob,Noob,noob
+Ferocious,ferocious,Fero,fero
+Finalblow,finalblow,Final,final 
+Hulk,hulk
+IneartheD,inearthed,Earth,earth 
+IronGripGym,irongripgym,Iron,iron 
+Know Pain,know pain,Pain,pain 
+Little Scrub,little scrub,Scrub,scrub 
+Sneakyshadow,sneakyshadow,Sneaky,sneaky 
+Sombrero,sombrero,Somb,somb 
+XxspirtxX,xxspirtxx,xspirt 
+Elspeth Wraith,elspeth wraith,Elspeth,elspeth
+Fashio,fashio,Fash,fash
+Hop3,hop3,Hope,hope 
+L1f3,l1f3,Life,life 
+Leo mdeivel,leo mdeivel,Leo,leo
+LowHP,lowhp
+ryderr,Ryderr,ryder,Ryder 
+SANGUIINE,sanguiine,Sang,sang 
+Shazam0,shazam0,shaz,Shaz 
+SirSwearsAlot,sirswearsalot,Sir,sir 
+Snipepro,snipepro,Snipe,snipe 
+Thebwarrior,thebwarrior,bwar
+TrippieRedd,trippieredd,Trip,trip
+WHIT3 b3auty,whit3 b3auty,whit3,white 
+Xemnas1
+Zove
+Voria MacLaurin,V,v 
+H anSolo
+Ivan Bitadikoff
+LazyScy
+RepusXVI
+Soluna flores
+Vizzion
+BigPapaH0rny
+Layla
+Gaiawater
+Madjack24
+RhinoKing
+BlueRadiance
+AikuruShokiumic
+Madjack24
+bildoshwagins12
 BlueGlow
-Bobymage,Boby,bobymage,boby
-bone7,bone
-Bonlucky,Bon,bonlucky,bon
-BossMaster,bossmaster,Boss,boss master
-Braden Cole,Braden,braden cole,braden,brad
-Bria Bellin,bria,bri,bellin
-Brightly,Bright,brightly,bright
-Brkn2013,Brkn,brkn2013,brkn
-Bryan33,bryan33,Bryan,bryan
-Buffy,Buff,Buf,buffy,buff,buf
-Buj4nski,Buj,buj4nski,buj
-Bunibuns,bunibuns,Buni,buni,bun
-Butcher629,Butcher,Butch,butcher629,butcher,butch
-Buttermybuns,Butter,buttermybuns,butter
-Cammybearpea,Cam,Cams,Cbp,Cammy,cam,cams,cammy,cbp
-Chainz,chainz,Chains,chains
-ChaosWarriors,Chaoswarrior,Cw,Chaos,chaoswarrior,cw
-Charlesr9,Charles,charlesr9,charles
-Charmin,charm,char
-CheeksMcGee,Cheeks,cheeksmcgee,cheeks
-Cheering T,Cheering,Cheer,cheering t,cheering,cheer,CheeringT,cheeringt
-Chele,chele
-ChickyChicky,chickychicky,Chicky,chicky,Chick,chick
-Chinook,Chin,chinook,chin
-Chipmunk,Chip,chipmunk,chip
-Chokachi,chok,Chok
-Cinch,cinch
-Clayton369,clayton,clay
-Clinch,clich
-Cr0n0s,Cron,Chronos,cr0n0s,cron,cronos,chr0n0s
-Crixos*,Crix,crixos,crix
-Cruiser,Cruise,cruiser,cruis,cruise
-Crusher1,Crusher,Crush,crusher1,crusher,crush
-Ddd5ddd5,d5,dd5,ddd5,d5d,dd5d,dd5dd,ddd5d,ddd5dd,ddd5ddd,dd5ddd5,dd5dd5,ddd5dd5,ddd,d,dd
-Dab,dab
-Dabstar,dabstar
-DaedricLord,dae
-DaedricPrince
-Dakuna,Dak,dakuna,dak
-Daric Pierce,Daric,daric pierce,daric
-Darkly,darkly
-DarkWing71,darkwing71,DarkWing,darkwing,Wing71,wing71,Wing,wing,Darkwing
-Darouin,darouin
-DaveTheWizard,Dave,davethewizard,dave
-Dayanara,dayanara,Day,day,daya
-DailyDouble,dailydouble,daily,Daily,DD,dd
-Dead Inside,Dead,dead inside,dead
-Death Spite,Death,deathspite,death
-Dementia,Dem,dementia,dem
-Devilsarmour,DA,Devil,devilsarmor,devilsarmour,da,devil,devils
-Dianah,Dian,Diana,Dia,dianah,dian,diana,dia
-Dima1,Dima,dima1,dima
-Donaldtheduck,Donald,donaldtheduck,donald
-Donatello,Don,donatello,don,Dona,dona
-Doynok,doy,doynok,doy
-Drac1,Darc,drac1,drac
-Dragon Fangs,Dragon,Fangsdragon fangs,dragon,fangs
-DrakonicFury,Drakonic,Drak,drak,drakonicFury
-DRUID,druid,DRU1D,dru1d,Bowner,Bow,Boner,bowner,bow,boner,Lock Block,lock block,Filet Mignon,filet mignon,Filet,filet,fillet
-DruiDiz
-Druidz,druidz
-Drunkie,Drunk,drunkie,drunk
-Dunkinn,Dunk,dunkinn,dunk
-Elderboss,elderboss,Eld,eld,elder
-ElDiablo,ElDia,eldiablo,eldia
-EliteHealz,Elite,eliteheals,elite,Eh,eh
-EllaofEden,Ella,Eden
-Elvia Jones,Elvia,Elva,elvia jones,elvia,elva
-Elysian,elys,ely
-Episode,Epi,episode,epi
-Eski Mofo,Eski,Mofo,eski mofo,eski
-Ethan,ethan
-Exio,exio
-False,false
-Fei,Fie,fei,fie
-Filthy Viejo,Filthy,Filth,filthy viejo,filthy,filth
-FireAndFire,Fnf,fireandfire,fnf
-Firecrotch,firecrotch,FC,fc
-Fired,fired
-Firestorms,Firestorm,Storm,Fs,firestorms,firestorm,storm,fs,Fire,fire
-FlawlessBlade,Flawless,Flaw,flawlessblade,flawless,flaw
-Flexypants,flex,flexy
-Florla Cuthbert,florla cuthbert,Florla,florla,Flo,flo
-Fondue,fondue
-Formal,formal,Form,form,fromal
-franko,Franko,frank
-Frozen Myth,Frozen,Frozo,Froz,frozen myth,frozen,frozo,froz,Froze,froze,Fro,fro
-FuriousRogue,Furi,furi,Furious,furious rogue
-Galio,galio
-GangsterIV,Gangster,Gang,gangsterIV,gangster,gang
-Gannicus39,Gannicus,Gann,Gan,gannicus,gann,gan
-Garein,garein
-Gebu,gebu
-Ghostshot,Ghost,ghostshot,ghost
-Godflame,godflame,Flame,flame,Gf,gf
-Godstrike,God,Gs,godstrike,god,gs
-GodTank,Gt,godtank,gt
-g0lden,G0lden,golden,Golden,g0ld,G0ld,gold,Gold
-Goonch,goonch
-Goonsquad,goonsquad
-Grimalkin,grimalkin
-grimheals,grim,Grimheals,grim
-GRIMLOCK365,grimlock365,GL,gl,GRIMLOCK,grimlock,Grimlock
-Gspot,gspot
-guardian Angel,GA,Guardian,ga,guardin angel,guard,Guard
-Guyun,Guy,guyun,guy
-Headhunterz,headhunter,head
-HealsFromAbove,Hfa,healsfromabove,hfa
-Healz4Yearz, Healz,H4y,Hfy,healz,healz4yearz,h4y,hfy
-Heavyshot,Heavy,HS,heavyshot,heavy,hs
-Helldiver,Hell,helldiver,hell
-HerbalHealz,Herbal,HH,herbalhealz,herbal,hh
-Hiiiiiiii,Hiiiii,Hiii,Hii,HI,hiiiiiii,hiiiii,hiii,hii,hi,hiiiiiiiii
-Hostile,hostile
-Hpnotiq,Hpnot,hpnotiq,hpnot,Hp,hp
-Hunter45,Hunter,Hunt,hunter45,hunter,hunt
-Hursaaaaay,Hursaaaay,Hursaaay,Hursaay,Hursay,hursaaaaay,hursaaaay,hursaaay,hursaay,hursay,Hur,hur,hursaaaaaay,Hursaaaaaay
-I Am,Iam,i am,iam
-iceiceice,ice,Iceiceice,Ice
-iCrit,Icrit
-ICxRogue,icxrogue
-IDRC,idrc
-Illillillillill,Illillillill,Illillill,Illill,Ill,illillillillill,illill,ill
-Ilumi,ilumi,Lumi,lumi,ilum,Ilum,iiumi,iium,Illumi,illumi,llumi
-Ily2,Ily,ily2,ily
-ImAGoon,imagoon,goon
-ImperialFlame,imperialflame,IF,if
-ImSoSick,imsosick
-ImThatOne1,Ito,imthatone,ito
-Infused,infused,Infuse,infuse
-Interruption,Interrupt,Inter,interruption,interrupt,inter
-ItsNotGebu,itsnotgebu,ING,ing
-ITox,itox,IT,it
-Itxaro,itxaro
-Ivan Drago,Ivan,ivan drago,ivan
-jnors1,Jnors1,Jnors,jnors
-JunkieJohnny,junkiejohnny,Junkie,junkie,Junk,junk,junki,jj
-Kahala,kahala
-Kalina,kalina,Kal,kal
-Kanagasabapathy,kanagasabapathy,Kana,kana,Kan,kan
-Katie McArn,Katie,Kate,Kat,katie mcarn,katie,kate,kat
-Katrak,katrak,rak
-Katrek,katrek,rek
-KeepingYouAlive,keepingyoualive,KeepingUAlive,keepingualive,KYA,kya
-Kefla,kefla,Kef,kef
-Kellogs,kellogs,kelloggs,kellgos,kellogs
-Killmon,Km,killmon,km
-Killshot,Ks,killshot,ks
-Kinglad,king,lad
-K1zzy,k1zzy,Kizzy,kizzy,Kiz,kiz
-Kos,kos
-Kvothekalos,Kvo,kvothekalos,kvo,Kv,kv
-Lady Anarchy,lady anarchy
-Lady Lock,lady lock
-LadyFate,ladyfate
-Lanre,lanre
-LazyScy,Lazy,lazyscy,lazy
-Ledion,Led,ledion,led
-Leemaster,Lee,leemaster,lee
-Legend moka,Legend,Moka,legend moka,legend,moka
-LegolasTheELf,LTE,Lego,Lego theelf,legothe elf,legolas theelf,legolasthe elf,legolas the elf,lego the elf,legolas
-Leililiani,leililiani,Leil,leil,Lei,lei,leilli,leilla
-Lendoerl,lendoerl,Len,len,Lend,lend
-Lethality,Lethal,Leth,lethality,lethal,leth
-LewTheGod,lew
-LiamX,Liam,liamx,liam
-Lifebonds,Lb,lifebonds,lb
-LifeGuard,Lg,lifeguard,lg
-Lilani,lilani,Lil,lil
-LittleH,H,little h,h
-Livid,livid
-LlamaHunter,Llama,llamahunter,llama
-LockBlock,lockblock
-Longgg,Longg,Long,longgg,longg,long
-LookAtme,lookatme,look,Look
-LoveIsMe,loveisme,Love,love
-Loyalty,loyalty
-Lucozade,Luco,lucozade,luco
-Luminous,Lumin,Lum,luminous,lumin,lum,lumimous,lumious
-Lythirlas,Lyth,Lyt,lythirlas,lyth,lyt
-Macky
-Madara Uchiha,Madara,madara urchiha,madara
-Maga,Mag,maga,mag
-Mamison,mamison,Mami,mami,Mam,mam,mani,manison
-Mana Ogilvie,Mana,mana ogilvie,mana
-Mancan,mancan
-Marijuana,marijuana,Marij,marij,Mari,mari
-Marina1,Mari,marina1,mari
-Markistan3,Mark,markistan3,mark,markistan
-Marknato,marknato,Nato,nato
-Master Splinter,master splinter,Splint,splint
-Medical,medical,Med,med
-Michaelangelo,Mich,michaelangelo,mich,much,Michael
-Mikeyboy,Mikey,Mike,mikeyboy,mikey,mike
-Misdemeanor,Misd,misdemeanor,misd,misde,misdemeanour
-Miss Angelina,Angelina,miss angelina,angelina
-Missfired,missfired
-MisterWC,Mrwc,misterwc,mrwc
-Mo Mo,Momo,mo mo,momo,Mo,mo
-Montagne,montagne
-Mooooshi,Mooshi,mooooshi,mooshi
-Morgatha,Morg,morgatha,morg
-Mr. Frog,MrFrog,mr. frog,Frog,frog,mr frog,mrfrog
-Mr. Goat,mr. goat,mrgoat,Mrgoat,Goat,goat,mr goat
-Mr. Piggi,Piggi,Mrpiggi,mr. piggi,Mr. Piggy,Piggy,piggy
-MrRogue,Mr,mrrogue,mr,mrrouge
-mrSLOTH,MRSLOTH,mrsloth,SLOTH,sloth
-Msboby,msboby
-Mukk,Muk,mukk,muk
-MukkDruid,mukkdruid
-MutedGirl,mutedgirl,Mute,mute,Muted,muted
-MyLockNow,Mln,mylocknow,mln
-Mythic,mythic
-MyWorld1,myworld,Myworld
-Nagatopain,Nagato,nagatoPain,nagato,nag,nagato,Nag,Nagato Pain,nagato pain
-NameMyHero,Nmh,Hero,namemyhero,nmh,hero
-Natures Fury,natures fury,NaturesFury,naturesfury,natures,fury
-Neeeeenja808,Neenj,Nenja,neeeeenja808,neenja,neenj,nenja,neeeenja808,Neeeenja808,Nj,nj,neen,neeeenja,neeenja
-NeonLights,neonlights,Neon,neon
-Nick629,Nick,nick629,nick
-Nightshadow51,nightshadow
-nikhilrajj,Nik,Nikhirajj,nik,nikh
-Noblesse,noblesse
-NugNug,nugnug,Nug,nug
-Nyx,nyx
-OG Mudbone,OG,og mudbone,og
-Omega,Megs,Mega,omega,megs,mega
-OnlyRogue,onlyrogue,Only,only
-Ooflol,Oof,ooflol,oof
-Oryx
-OwO,owo,0w0
-OzzyFudd,Ozzy,ozzyfud,ozzy
-Painbringer,Pain,painbringer,pain
-Payload,Pay,payload,pay
-PEHLIVANBEY,Pehli,pehlivanbey,pehli
-Petal,petal
-Phantom Hexrat,Hexrat,Phanton,phantom hexrat,phantom,hexrat
-P J,pj
-Poca
-Potatochip,potato,potato chip
-ProteinChipmunk,Protein,proteinchipmunk,protein
-Proteus Prime,Prot,proteus prime,prot
-Purepk9r,pk9r
-Pyropete,pyro
-Quickie,quickie
-Quicksteal,Steal,Qs,quicksteal,steal,qs,quiksteal,quick
-R0,ro,Ro,r0
-Ragz,ragz
-RangedAssassin,RA,rangedassassin,ra
-RangerIT,IT,ranger it,it
-Rapheal,rapheal,Rap,rap
-Razt,razt
-Redish,Red,redish,red,reddish,Reddish
-Redpumpkin,Pumpkin,redpumpkin,pumpkin
-Revive,revive
-Rickstyle,Rick,rickstyle,rick
-RitZ1,Ritz,Rit,ritz1,ritz,rit,ritzi
-Robbieladd,Robbie,Rob,Robb,robbieladd,robbie,rob,robb
-Robin Hood,Robin,robin hood,robin,rob1n hood,rob1n
-Roda,roda
-Rogue0fMabon,RogueOfMabon,rogueofmabon,R0m,rom,ROM,R0M
-Roguepower,Rp,roguepower,rp
-Rohin,rohin
-Rolling Wood,Rolling,roll,Roll,rolling wood
-Rosee eh,rosee eh,Rose,rose
-Rosiee,Rose,rosiee,rose
-Royalninja,Royal,royalninja,royal
-Ruth Walker,ruth walker,Ruth,ruth,ruthwalker
-Sabras Gethin,Sabras,Sab,sabras gethin,sabras,sab
-Saerah Magar,Sae,saerah magar,sae,Saerah,saerah
-Saraaaa98,Sara,saraaa,sara
-Sasori12,Sasori,sasori,sasori12
-Sasuke579,Sasuke,Sas,sasuke579,sasuke,sas
-Savos,savos
-Senia,senia
-SerialKilla,Killa,serialkilla,killa
-Shadowstrikerx,Shadow,shad,Shad,shadow,striker,strikerx,shadowstriker
-Shoyo,shoyo,Sho,sho
-Silent blade,Silent,silent blade,silent
-Sk33ze,sk33ze,Skeeze,skeeze
-Skullcrusher,Skull,Skully,Skullie,skullcrusher,skull,skully,skullie,Skullkrusher,skullkrusher
-Sky Era,sky era
-sneaky beaky,sb,Sneaky beaky,Sb,sneakybeaky,sneaky,Sneaky,Sneakybeaky
-Sneakyshadow,Ss,sneakyshadow,ss,sneaky shadow,Sneaky shadow
-Sobriety,Sob,sobriety,sob
-Soe,soe
-Soul Warrior,soul warrior,Sw,sw,soulwarrior
-soulless,Soulless,Soul,soul
-Spacemaker 300,Spacemaker,space,Space,spacemaker3000
-SpartanIII,Spartan
-Speedz,speedz,Speed,speed,Sz,sz
-Spiritaldeath,spiritaldeath,spirit,spiritual
-Squirrel,squirrel,squirel,Squirrrrel,squirrrel
-Squirts,squirts
-Squirtz,squirtz
-Stabetha,stabetha
-Starrynight54,starrynight54,starry
-Steeeeve,steeeeve,Steeeve,steeeve,Steeve,steeve,Steve,steve
-Stirstix,Stir,stirstix,stir
-Sundown,Sun,sundown,sun
-Surgeon,surgeon,Surg,surg,Sur,sur,Surge,surge
-Swish,swish
-Swishy,swishy
-Taborlin,taborlin.Tab,tab
-Taffy,taffy
-Tagus,tagus,Tag,tag
-Tanjiro,Tan,Tanj,tanjiro,tanj,tan,tam,tamjiro,tanji
-Tank of Mabon,tank of mabon,tankofmabon,tank ofmabon,tankof mabon,tank
-Tankie,tankie,Tanki,tanki
-tankasaurus,Tankasaurus
-Temperr,Temper,temperr,temper
-Tenacity,tenacity,Ten,ten,tena,tenac
-TerminNater,Term,Terminnater,terminater,term,termin
-Terz,terz
-Thanatus,thanatus,Than,than
-The Darkness,Darkness,the darkness,darkness
-The Diz,Diz,the diz,diz,thediz
-The Doctor,Doctor,Doc,the doctor,doctor,doc
-The Healer,Healer,Heal,The H3aler,the healer,healer,h3aler,thehealer,theh34ler
-The Last Ranger,the last ranger
-TheDarkMan,thedarkman,tdm,Tdm,TDM,DarkMan,darkman,Dark,dark
-TheFuture,Future,thefuture,future
-TheLastRouge,Tlr,tlr
-Thermal Healz,thermal healz,thermalhealz,thermalheals
-Thunderbuns,Buns,Bunz,thunderbuns,buns,bunz
-Tidus,Tids,Tid,tidus,tids,tid,Tidus32,tidus32
-Tiff,tiff
-Tomoko,Tomo,Tom,tomoko,tomo,tom
-TonyTony,Tony,tonytony,tony
-ToxICfire,toxicfire,Tox,tox,Toxic,toxic,toxlc,toxlcfire
-Transgress,tran,trans
-TriggerJoe,triggerjoe,trigger,Trigger,Joe,joe
-Tr0jan,Trojan,tr0jan,trojan
-Trev Macla,Trev,trev macla,trev
-Tymur,tymur,Ty,ty,Tym,tym
-Ungodly,ungodly
-Usuk Muaddib,Usuk,usuk muaddib,usuk
-UwU,uwu
-Valindra,Val,valindra,val,valin
-Valkyrja,valkyria
-Valyria,valyria,Valy,valy,Valyr,valyr
-Vangtan Laphrog,Vangtan,Vang,vangtan,vang
-Vannee,Van,vannee,van
-Vedrich McCroy,vedrich mccroy,Vedrich,vedrich,VM,vm,Ved,ved
-VedrichJr,vedrichjr,VedJr,vedjr,Vedrich Jr,vedrich jr,ved jr
-Vestas,vestas
-Veto,veto
-Vhen,vhen
-Vibrancy,Vib,vibrancy,vib
-Villain,villian
-Viscaria,Visc,Vis,viscaria,visc,vis
-Voria MacLaurin,Voria,Vor,V,voria maclaurin,Voria Maclauren,vor,v,voria
-Vortar Tolan,Vortar,vortar tolan,vortar
-Werts00alts,Wert,werts00alts,wert
-Whimsy,whimsy
-WHITEDEATH,whitedeath,WhiteDeath,Death,death
-Whiteyes,White,eyes,pixie,pixi,whiteyes,white,white eyes,White eyes
-Wiggly Bob,Wiggly,Wig,wiggly bob,wiggly,wig,Bob,bob
-Wilding,Wild,wilding,wild
-Wind Dancer,wind dancer
-Windward,Wind,windward,wind
-Wiro,wiro
-XBalanque,xbal,x,balanque,bal
-xBast,Bast,xbast,bast
-XBlackCobraX,Cobra,xblackcobrax,cobra,Black,black
-XDarthStrikerX,Darth,Darthstriker,darthstriker,darth
-Xde,xde
-XdiabloX,diablo
-Xeni1387,Xeni
-xHoneyx,Honey,honey
-XNoirX,noir
-xRedJamiex,Jamie,red jamie,jamie,xred jamiex
-xResonatex,Res,resonate,res
-xRougeMasterx,Rouge,RM,roguemaster,rogue,rm
-xSweetiex,Sweetie,sweetie
-xTimurx,Tim,timur,tim,XT,xt,Xt,xT
-xTooxBlackx
-xxdarkroguexx,dr,darkrogue,darkrouge
-xxLovelyRoguexx,Lovely,lovely
-XxMlgClutchxX,Mlg,mlg,xxmlg clutchxx,mlg clutch,mlgclutch
-XxOmegaxX,xxomegaxx,Omega,omega,Mega,mega
-xxWarcrusherxx,War,warcrusher,war
-YAMUM101,YAMUM,Mum,mum,yamum,yamom
-Yoshimura,yoshi,yosh
-YourHero,yourhero,YH,yh,Yh,yH
-Ysana Pembroke,Ysana,ysana
-Yuh1,Yuh,yuh
-Zafira,zafira,Fira,fira,zaf
-Zahid,zahid
-Zavier,zavier,Zav,zav,zaviar,xavier,xav
-Zapp,zapp,Zap,zap
-Zealot,Z,Zea,zealot,z,zea
-Zeero,Zero,zeero,zero
-Zenitsu,zenitsu,Zen,zen
-Zn,zn
-Zodiac X,zodiac
-Zol,zol
-Zxra,zora,zxrs,zx,zxar
+Burning rage
+Diaa
+Hammelsprung
+King James	
+Korlisra	
+LikeABossz	
+0RedDagger0	
+5hadow	
+Kiser49ers2	
+Ainu	
+Alexthecool
+Allanoc
+Altiarius
+Ap0LAkaY
+ArchmagNikita
+Arktor
+Arsv
+Auri Death
+AxxBlackxxMan
+BeanBag
+Below Average
+Blackwarrior
+Celestial Myth
+CHANCHITO	
+diaa mage
+DragonHE4LER
+DragonTamer
+Dulargeboy
+Emma
+Faroel Cerilith
+Fran Slays
+Fumundacheese
+gella
+Green Arrow
+Gull Globit
+Heroic Daggers
+Himmelkanon
+Hypnotix
+IPeep
+itot
+Jawunga
+KaziUjal
+Kelcy Jack
+Kelsi McAvoy
+khufra
+KingBoat
+kingjames
+kingwatcher
+Kiser49er2
+LazyII
+LongH3als
+Mage Daniela
+Matafal Hire
+Mithrandir I
+Moira Freyheart
+MrDuck
+Void X
+n30p1r4teee
+Night Comet
+nrg nrg
+Organism
+Polornia
+Princess Leia
+Queen Loulan
+Queeny Loulan
+Rae Aeris
+Steple
+Reverie
+Rhobert OCain
+Ripp Asunder
+rock007
+Rougi
+Rumix
+Saint Nicholas
+Serene
+sharpo
+Shiny Optimust99
+Danvert
+Sir Slikster
+SlowBlade
+Solt1ce
+Sploof
+stonergirl
+SweetWine
+rougueftw
+Talyessin McLur
+TemplarElite1
+The thewill
+TheHelp
+TonyTony D
+TPAXEP
+V Daddy
+Vestas
+Violent Violet
+xiiZed	Mythic Legends		0	0
+XxBLEEDxX
+xXNickXx
+xXWarcrusherXx
+yunghellz
+2Smol4U
+Ahmed
+AiGrijaAmCOVID
+Anglerstrike
+ARMED
+Assasinscreed
+BOLO
+Beastshaft
+BigBoy
+bladella
+BlazingDagger
+Blitzz
+Bride OHallinan
+Bruno Lendario
+Canos
+CELTICPMS
+ChaosWanderer
+Codein
+Comyn
+Cristianaaaa
+Cuckies
+Cuz
+cxtfish
+DarkTheMage
+deacon
+DEADSHAWDOWS
+Dee Parcell
+DinnerBro
+DTP
+edde
