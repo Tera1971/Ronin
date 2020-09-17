@@ -268,8 +268,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 25,
-            kill6: 50,
+            kill5: 20,
+            kill6: 40,
         }
     },
     FACTIONS: {
@@ -278,7 +278,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 50,
+            kill6: 40,
         }
     },
     BLOODTHORN_ROOT: {
@@ -298,7 +298,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 25,
-            kill6: 50,
+            kill6: 30,
         }
     },
     LEGACY_180: {
@@ -306,8 +306,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 0,
-            kill5: 50,
-            kill6: 100,
+            kill5: 30,
+            kill6: 50,
         }
     },
 };

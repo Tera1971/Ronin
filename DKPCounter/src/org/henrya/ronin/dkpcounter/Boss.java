@@ -6,6 +6,8 @@ package org.henrya.ronin.dkpcounter;
  *
  */
 public enum Boss {
+	/*meteoric */
+	MET_Copp(new String[] {"95", "copp", "coppinger"}, 0, new int[]{0, 5, 10}),
 
 	/* DL bosses */
 	DL_155(new String[] {"155", "spider", "spidey", "ulrob"}, 0, new int[]{5, 10, 15}),
