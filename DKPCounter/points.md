@@ -5,6 +5,23 @@
 # Points
 
 A certain amount of DKP is awarded for killing bosses and leveling The tables below show the points each boss is worth.
+## Met
+<table>
+  <tr>
+    <th>Kill 4*</th>
+    <th>Kill 5*</th>
+    <th>Kill 6*</th>
+  </tr>
+  <tr>
+    <td>copp</td>
+    <td>0</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+</table>
+##Froz
+<table>
+  <tr>
 
 ## Dragonlord
 <table>

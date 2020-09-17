@@ -21,7 +21,7 @@ const Boss = {
         }
     },
     Froz_115: {
-        aliases: ["110", "swampy", "swampie", "swamplord"],
+        aliases: ["115", "swampy", "swampie", "swamplord"],
         points: {
             camp: 0,
             kill4: 0,
