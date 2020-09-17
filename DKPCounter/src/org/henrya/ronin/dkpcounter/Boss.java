@@ -6,6 +6,7 @@ package org.henrya.ronin.dkpcounter;
  *
  */
 public enum Boss {
+
 	/* DL bosses */
 	DL_155(new String[] {"155", "spider", "spidey", "ulrob"}, 0, new int[]{5, 10, 15}),
 	DL_160(new String[] {"160", "priest"}, 0, new int[] {5, 10, 15}),

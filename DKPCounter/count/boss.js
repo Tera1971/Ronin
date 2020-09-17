@@ -1,4 +1,71 @@
 const Boss = {
+    /**meteoric boss **/
+    MET_COPP: {
+        aliases: ["95","copp", "coppinger"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 10,
+
+        }
+    },
+    /** Frozen bosses **/
+    Froz_110: {
+        aliases: ["110","eye"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 10,
+        }
+    },
+    Froz_115: {
+        aliases: ["110", "swampy", "swampie", "swamplord"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 10,
+        }
+    },
+    Froz_120: {
+        aliases: ["120", "woody", "woodcrown", "woodie"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 10,
+        }
+    },
+    Froz_125: {
+        aliases: ["The Chained King", "chained", "chained king"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 10,
+        }
+    },
+    Froz_130: {
+        aliases: ["grommak", "grom", "stonelord"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 15,
+        }
+    },
+    Froz_135: {
+        aliases: ["pyrus", "lavalord"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 5,
+            kill6: 15,
+        }
+    },
+
 
     /** DL bosses **/
     DL_155: {
@@ -7,7 +74,7 @@ const Boss = {
             camp: 0,
             kill4: 5,
             kill5: 10,
-            kill6: 15,
+            kill6: 25,
         }
     },
     DL_160: {
@@ -16,7 +83,7 @@ const Boss = {
             camp: 0,
             kill4: 5,
             kill5: 10,
-            kill6: 15,
+            kill6: 25,
         }
     },
     DL_165: {
@@ -25,24 +92,24 @@ const Boss = {
             camp: 0,
             kill4: 5,
             kill5: 10,
-            kill6: 20,
+            kill6: 25,
         }
     },
     DL_170: {
         aliases: ["170", "sreng", "bolg"],
         points: {
             camp: 0,
-            kill4: 10,
+            kill4: 5,
             kill5: 20,
-            kill6: 30,
+            kill6: 40,
         }
     },
     DL_180: {
         aliases: ["180", "snorri", "snor", "snorr", "troll"],
         points: {
             camp: 0,
-            kill4: 15,
-            kill5: 30,
+            kill4: 5,
+            kill5: 20,
             kill6: 40,
         }
     },
@@ -53,8 +120,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 10,
-            kill6: 20,
+            kill5: 15,
+            kill6: 30,
         }
     },
     EDL_190: {
@@ -62,8 +129,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 10,
-            kill6: 20,
+            kill5: 15,
+            kill6: 30,
         }
     },
     EDL_195: {
@@ -71,8 +138,8 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 10,
-            kill6: 20,
+            kill5: 15,
+            kill6: 30,
         }
     },
     EDL_200: {
@@ -80,24 +147,24 @@ const Boss = {
         points: {
             camp: 0,
             kill4: 5,
-            kill5: 10,
-            kill6: 20,
+            kill5: 15,
+            kill6: 30,
         }
     },
     EDL_205: {
         aliases: ["205", "cragskor", "dragon"],
         points: {
             camp: 0,
-            kill4: 10,
-            kill5: 20,
-            kill6: 30,
+            kill4: 5,
+            kill5: 30,
+            kill6: 50,
         }
     },
     EDL_210: {
         aliases: ["210", "revenant", "anguish"],
         points: {
             camp: 0,
-            kill4: 15,
+            kill4: 5,
             kill5: 30,
             kill6: 50,
         }
@@ -106,9 +173,9 @@ const Boss = {
         aliases: ["215", "unox", "eye"],
         points: {
             camp: 0,
-            kill4: 20,
-            kill5: 40,
-            kill6: 60,
+            kill4: 5,
+            kill5: 30,
+            kill6: 50,
         }
     },
 
@@ -119,7 +186,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 50,
+            kill6: 30,
         }
     },
     HRUNGNIR: {
@@ -128,7 +195,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 75,
+            kill6: 100,
         }
     },
     MORDRIS: {
@@ -137,7 +204,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 100,
+            kill6: 150,
         }
     },
     EFNISIEN: {
@@ -146,7 +213,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 100,
+            kill6: 150,
         }
     },
 
@@ -156,7 +223,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 100,
+            kill6: 150,
         }
     },
     PROTEUS_PRIME: {
@@ -165,7 +232,7 @@ const Boss = {
             camp: 0,
             kill4: 0,
             kill5: 0,
-            kill6: 150,
+            kill6: 200,
         }
     },
     GELEBRON: {
