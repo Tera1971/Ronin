@@ -416,7 +416,7 @@ function getKillPoints(boss, stars) {
     }
 }
 function getBosses() {
-    return [Boss.FROZ_110, Boss.FROZ_115, Boss.FROZ_120, Boss.FROZ_125, Boss.FROZ_130, Boss.FROZ_135, Boss.DL_155, Boss.DL_160, Boss.DL_165, Boss.DL_170, Boss.DL_180, Boss.EDL_185, Boss.EDL_190, Boss.EDL_195, Boss.EDL_200, Boss.EDL_205, Boss.EDL_210, Boss.EDL_215, Boss.AGGRAGOTH, Boss.HRUNGNIR, Boss.MORDRIS, Boss.EFNISIEN, Boss.PROTEUS_BASE, Boss.PROTEUS_PRIME, Boss.GELEBRON, Boss.BLOODTHORN, Boss.DHIOTHU, Boss.RING_BOSS, Boss.FACTIONS, Boss.BLOODTHORN_ROOT, Boss.LEGACY_150, Boss.LEGACY_180];
+    return [Boss.MET_COPP, Boss.FROZ_110, Boss.FROZ_115, Boss.FROZ_120, Boss.FROZ_125, Boss.FROZ_130, Boss.FROZ_135, Boss.DL_155, Boss.DL_160, Boss.DL_165, Boss.DL_170, Boss.DL_180, Boss.EDL_185, Boss.EDL_190, Boss.EDL_195, Boss.EDL_200, Boss.EDL_205, Boss.EDL_210, Boss.EDL_215, Boss.AGGRAGOTH, Boss.HRUNGNIR, Boss.MORDRIS, Boss.EFNISIEN, Boss.PROTEUS_BASE, Boss.PROTEUS_PRIME, Boss.GELEBRON, Boss.BLOODTHORN, Boss.DHIOTHU, Boss.RING_BOSS, Boss.FACTIONS, Boss.BLOODTHORN_ROOT, Boss.LEGACY_150, Boss.LEGACY_180];
 }
 
 function getBoss(name) {
