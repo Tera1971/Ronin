@@ -8,6 +8,7 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
 ## Met
 <table>
   <tr>
+    <th>Boss</th>
     <th>Kill 4*</th>
     <th>Kill 5*</th>
     <th>Kill 6*</th>
@@ -22,7 +23,49 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
 ##Froz
 <table>
   <tr>
-
+    <th>Boss</th>
+    <th>Kill 4*</th>
+    <th>Kill 5*</th>
+    <th>Kill 6*</th>
+  </tr>
+  <tr>
+    <td>eye (110)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Swamplord (115)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Woodycrown (120)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>The Chained King (125)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Grommak (130)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>Pyrus (135)</td>
+    <td>0</td>
+    <td>5</td>
+    <td>15</td>
+  </tr>
+  
+</table>
 ## Dragonlord
 <table>
   <tr>
@@ -36,30 +79,30 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
     <td>Spider</td>
     <td>5</td>
     <td>10</td>
-    <td>15</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Priest (160)</td>
     <td>5</td>
     <td>10</td>
-    <td>15</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>King (165)</td>
     <td>5</td>
     <td>10</td>
-    <td>20</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Sreng (170)</td>
-    <td>10</td>
+    <td>5</td>
     <td>20</td>
-    <td>30</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Snorri (180)</td>
-    <td>15</td>
-    <td>30</td>
+    <td>5</td>
+    <td>20</td>
     <td>40</td>
   </tr>
 </table>
@@ -77,43 +120,43 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
     <td>Ifryn (185)</td>
     <td>5</td>
     <td>10</td>
-    <td>20</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Skath (190)</td>
     <td>5</td>
     <td>10</td>
-    <td>20</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Gron (195)</td>
     <td>5</td>
-    <td>10</td>
-    <td>20</td>
+    <td>15</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Krothur (200)</td>
     <td>5</td>
-    <td>10</td>
-    <td>20</td>
-  </tr>
-  <tr>
-    <td>Cragskor (205)</td>
-    <td>10</td>
-    <td>20</td>
+    <td>15</td>
     <td>30</td>
   </tr>
   <tr>
+    <td>Cragskor (205)</td>
+    <td>5</td>
+    <td>30</td>
+    <td>50</td>
+  </tr>
+  <tr>
     <td>Revenant (210)</td>
-    <td>15</td>
+    <td>5</td>
     <td>30</td>
     <td>50</td>
   </tr>
   <tr>
     <td>Unox (215)</td>
-    <td>20</td>
-    <td>40</td>
-    <td>60</td>
+    <td>5</td>
+    <td>30</td>
+    <td>50</td>
   </tr>
 </table>
 
@@ -125,27 +168,27 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   </tr>
   <tr>
     <td>Aggy</td>
-    <td>50</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Hrungnir</td>
-    <td>75</td>
+    <td>100</td>
   </tr>
   <tr>
     <td>Mordris</td>
-    <td>100</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Efnisien</td>
-    <td>100</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Proteus Base</td>
-    <td>100</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Proteus Prime</td>
-    <td>150</td>
+    <td>200</td>
   </tr>
   <tr>
     <td>Gelebron</td>
@@ -170,13 +213,13 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   </tr>
   <tr>
     <td>Ring Boss</td>
-    <td>25</td>
-    <td>50</td>
+    <td>20</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Factions</td>
     <td></td>
-    <td>50</td>
+    <td>40</td>
   </tr>
     <tr>
     <td>Bloodthorn Root</td>
@@ -195,12 +238,12 @@ A certain amount of DKP is awarded for killing bosses and leveling The tables be
   <tr>
     <td>Legacy 150+</td>
     <td>25</td>
-    <td>50</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Legacy 180+</td>
+    <td>30</td>
     <td>50</td>
-    <td>100</td>
   </tr>
 </table>
 
