@@ -237,6 +237,24 @@ Violent Violet,VV,vv
 Void X,Void,void
 Void XX,XX,xx
 Voria MacLaurin,V,v,Voria,voria
+VVarior,VVar,vvar
+VViz,vviz
+Wiggly Bob,Bob
+WXW,wxw
+Wzrdruid,Wzr,wzr
+xFallenx,Fallen,fallen
+xMysticalx,Mystical,mystical
+Xul Darkstorm,Xul,xul
+XxBLEEDxX,Bleed,bleed
+XxIvanhoexX,Ivanhoe,ivanhoe
+xXNick629Xx,Nick,nick
+xXsharpeyeXx,sharpeye,Sharpeye
+xXWarcrusherXx,War,war
+Xxwarri0rxX,warrior,Warrior
+youngstoner,Young,young
+YungGangsta,Yung,yung
+yunghellz,hellz,Hellz
+Zaralia,Zara,zara
 
 
 
