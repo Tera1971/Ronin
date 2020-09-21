@@ -48,6 +48,7 @@ caster0,Caster0,caster,Caster
 Celestial Myth,celestial,Celestial,Myth,myth
 CELTICPMS,Celtic,celtic,PMS,pms
 cobra kboy,Cobra,cobra,Kboy,kboy
+Colby1,Colby,colby
 Combustible,Comb,comb
 Comyn,comyn
 Cristianaaaa,Cris,cris
@@ -65,6 +66,7 @@ DTP,dtp
 Elspeth Wraith,Els,els,El,el
 EmeraldKnght,Emerald,emerald,Em,em
 Endavor Hanes,endavor,End,end
+Episode
 Evondarty,Evon,evon
 Farmer John,Farm,farm,John,john
 Faroel Cerilith,Faroel,faroel,Far,far
@@ -76,6 +78,7 @@ Fleets,fleets
 Fran Slays,Fran,fran
 Frumentari,Fru,fru
 Fumundacheese,Fum,fum
+Gannicus39,Gan,gan,Gann,gann
 Gauri,gauri
 Glan,glan
 Green Arrow,Green,green
@@ -175,6 +178,7 @@ Radner,Rad,rad
 Rae Aeris,Rae,rae
 Rayyed,Ray,ray
 Razorback,Razor,razor
+Rebound22,Reb,reb,rebound,Rebound
 Reol,reol
 RepusXVI,Repus,repus
 Reverie,Rev,rev
