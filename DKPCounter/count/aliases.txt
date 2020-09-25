@@ -66,7 +66,7 @@ DTP,dtp
 Elspeth Wraith,Els,els,El,el
 EmeraldKnght,Emerald,emerald,Em,em
 Endavor Hanes,endavor,End,end
-Episode
+Episode,episode,Epi,epi
 Evondarty,Evon,evon
 Farmer John,Farm,farm,John,john
 Faroel Cerilith,Faroel,faroel,Far,far
@@ -176,6 +176,7 @@ Pumnel,Pum,pum
 Radioactive,Radio,radio
 Radner,Rad,rad
 Rae Aeris,Rae,rae
+xRapidd,Rapd,rapid,Rapid
 Rayyed,Ray,ray
 Razorback,Razor,razor
 Rebound22,Reb,reb,rebound,Rebound
@@ -183,7 +184,7 @@ Reol,reol
 RepusXVI,Repus,repus
 Reverie,Rev,rev
 Rhinoking01,Rhino,rhino
-Rianxeira,Ria,ria
+Rianxeira,Ria,ria,Rain,rain
 Ripp Asunder,Rip,rip
 Robbieladd,Rob,rob
 RoseBlood,Rose,rose
@@ -229,6 +230,7 @@ Themagiic,Magiic,magiic
 Tinah,tinah
 ToxicRanger,Tox,tox
 Tudor Tyre,Tudor,tuder
+Tywin Lannister,Tywin,tywin,Twin,twin
 Tyrcat,tyrcat
 Ultradeath,Ultra,ultra
 Ur Dad12,Dad,dad
