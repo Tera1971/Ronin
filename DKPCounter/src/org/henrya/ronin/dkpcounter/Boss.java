@@ -6,6 +6,9 @@ package org.henrya.ronin.dkpcounter;
  *
  */
 public enum Boss {
+	/*Cooking*/
+	Cook(new String[] {"Cooking boss" , "cooking", "cook"}, 0, new int[]{0, 0, 10}),
+	
 	/*meteoric */
 	MET_Copp(new String[] {"95", "copp", "coppinger"}, 0, new int[]{0, 5, 10}),
 

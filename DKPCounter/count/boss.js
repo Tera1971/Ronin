@@ -1,4 +1,14 @@
 const Boss = {
+    Cooking: {
+        aliases: ["Cooking boss","cooking", "cook"],
+        points: {
+            camp: 0,
+            kill4: 0,
+            kill5: 0,
+            kill6: 10,
+
+        } 
+    },
     /**meteoric boss **/
     MET_COPP: {
         aliases: ["95","copp", "coppinger"],

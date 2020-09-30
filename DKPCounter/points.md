@@ -5,6 +5,21 @@
 # Points
 
 A certain amount of DKP is awarded for killing bosses and leveling The tables below show the points each boss is worth.
+## Cooking
+<table>
+  <tr>
+  <th>Boss</th>
+    <th>Kill 4*</th>
+    <th>Kill 5*</th>
+    <th>Kill 6*</th>
+  </tr>
+  <tr>
+    <td>Cooking</td>
+    <td>0</td>
+    <td>0</td>
+    <td>10</td>
+  </tr>
+  
 ## Met
 <table>
   <tr>
