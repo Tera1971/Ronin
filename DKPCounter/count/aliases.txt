@@ -4,6 +4,7 @@
 5hadow,Shadow,shadow
 Aard,aard
 Acela,acela
+Adamlynn2,Adam,adam
 Addrullyn Kerri,addrullyn,Add,add
 Adrian1010,adrian,Adrian
 Afardof,afardof,Afar,afar
@@ -19,12 +20,14 @@ Amaroq,amaroq
 Ancient Bolt,Bolt,bolt
 Anglerstrike,Angler,angler
 Anilt,anilt
+AqozDank,Aqoz,aqoz,Dank,dank
 Aquaman,aquaman,Aqua,aqua
 Arktor,arktor,Ark,ark
 Armed,armed
 asimov,Asimov
 Avalon2,Avalon,avalon
 Awcks,awcks
+Axis Mundi,Axis,axis
 AxxBlackxxMan,Ablackman,ablackman
 Azuvir,azuvir,Azu,azu
 Balorant rust,balorant,Rust,rust
@@ -95,12 +98,14 @@ Ilyan Groza,Ilyan,ilyan
 IPeep,Peep,peep
 itot,Itot
 Ivan Bitadikoff,IvanB,ivanb
+Jayyy,Jay,jay
 Kai MacAskin,Kai,kai
 Kalis Kleave,Kalis,kalis
 Kate Twomey,Kate,kate
 Katie McArn,Katie,katie
 Kelcy Jack,Kelcy,kelcy
 Kelsi McAvoy,Kelsi,kelsi
+Kerillian,Keri,keri
 khaleed,Khaleed,Kha,kha
 Kilebarron2,Kile,kile
 King James,James,james
@@ -200,6 +205,7 @@ Sentence,Sent,sent
 Sh3lly,Shelly,Shell,shell
 Shadow Walker,Shadoww,shadoww
 Sharp Tipz,Sharp,sharp
+Shleefin,Shl,shl
 Silent Blades,Silent,silent
 Sir Slikster,Slik,slik
 Sir Timbledorf,Timb,timb
@@ -229,6 +235,7 @@ TheMachine,Machine,machine
 Themagiic,Magiic,magiic
 Tinah,tinah
 ToxicRanger,Tox,tox
+Toxins,tox,toxins,Tox
 Tudor Tyre,Tudor,tuder
 Tywin Lannister,Tywin,tywin,Twin,twin
 Tyrcat,tyrcat
@@ -237,6 +244,7 @@ Ur Dad12,Dad,dad
 Ur Mom12,Mom,mom
 V Daddy,Vdad,vdad
 Vavita,Vav,vav
+VeNoMxx,vemon,Vemon
 Vexa,vexa
 Vikingo,Vik,vik
 Violent Violet,VV,vv
