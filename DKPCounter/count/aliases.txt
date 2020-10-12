@@ -63,6 +63,7 @@ DEADSHADOWS,deadshadows,Shadow,shadow
 Dee Parcell,Dee,dee
 DevilEyE,Devil,devil,Eye,eye
 diaa mage,diaa,Diaa,dia,Dia
+DogmaDragons,Dogma,dogma
 Doja,doja
 DragonTamer919,Drag,drag
 DTP,dtp
@@ -146,6 +147,7 @@ Medaya,Med,med
 Meowdy,Meow,meow
 MINECRAFT MODE,Mine,mine
 Mithrandir I,Mith,mith
+Mhhmmm,mhhmmm,Mmmhhmmmm,mmhhmm
 Moira Freyheart,Frey,frey
 Mordane,Mord,mord
 MrDuck,Duck,duck
@@ -229,6 +231,7 @@ sypha,Sypha
 SystemError,System,system
 Talyessin McLur,Tal,tal
 TemplarElite1,Temp,temp
+TheDogman,Dogman,dogman,Dog,dog
 Thefirstwitcher,Witcher,witcher
 TheHelp,Help,help
 TheMachine,Machine,machine
