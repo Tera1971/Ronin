@@ -133,7 +133,7 @@ Liam Goff,LiamG,liamg
 LiamTheWizard,Liam,liam
 LiamX,liamx,Liamx
 LiamXII,liamxii
-Lif3
+Lif3,Life,life
 LightningFrost,Frost,frost
 LilHomieTony,Homie,homie
 LongH3als,Long,long
