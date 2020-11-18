@@ -137,6 +137,7 @@ Lif3,Life,life
 LightningFrost,Frost,frost
 LilHomieTony,Homie,homie
 LongH3als,Long,long
+Luciifear,luciifear,luci
 lucyan,Lucy,lucy
 MABON TANK,Mabon,mabon
 macall,Macall
@@ -162,6 +163,7 @@ NaturalHealer,Natural,natural
 NickTheGreat,Nic,nic
 Night Comet,Night,night
 NightCat,Nite,nite
+Nightmare4u,nightmare4u
 NLRogue,NLR,nlr
 NLWarrior,NLW,nlw
 NoHeals4U,NoHeals,noheals
@@ -196,7 +198,7 @@ Ripp Asunder,Rip,rip
 Robbieladd,Rob,rob
 RoseBlood,Rose,rose
 Rouge Killer,RougeK,rougeK
-rougeftw,rouge,rouge
+rougueftw,rougue,rougue
 Rumix,rumix
 RuskiBear,Ruski,ruski
 Sabronij,Sabr,sabr
