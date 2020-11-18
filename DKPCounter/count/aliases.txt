@@ -32,9 +32,11 @@ AxxBlackxxMan,Ablackman,ablackman
 Azuvir,azuvir,Azu,azu
 Balorant rust,balorant,Rust,rust
 Bang Vo,Bang,bang
+Berry iceman,Berry,berry
 Big dizel,Dizel,dizel
 Bigbehemoth,Big,big
 bildoshwagins12,Bildosh,bildosh
+bizaro,biz,Biz
 BlackWarrior,Black,black
 bladella,Blade,blade
 BlazingDagger,Blazing,blazing
@@ -63,6 +65,7 @@ DEADSHADOWS,deadshadows,Shadow,shadow
 Dee Parcell,Dee,dee
 DevilEyE,Devil,devil,Eye,eye
 diaa mage,diaa,Diaa,dia,Dia
+Distract,distract
 DogmaDragons,Dogma,dogma
 Doja,doja
 DragonTamer919,Drag,drag
@@ -74,6 +77,7 @@ Episode,episode,Epi,epi
 Evondarty,Evon,evon
 Farmer John,Farm,farm,John,john
 Faroel Cerilith,Faroel,faroel,Far,far
+FastBlade,Fast,fast
 Felix2,Felix,felix
 Finbar Moss,finbar,Finbar
 Fireworks,Fire,fire
@@ -84,11 +88,13 @@ Frumentari,Fru,fru
 Fumundacheese,Fum,fum
 Gannicus39,Gan,gan,Gann,gann
 Gauri,gauri
+GeauxGeaux,Geaux,geaux,gogo
 Glan,glan
 Green Arrow,Green,green
 Gull Globit,Gull,gull
 H anSolo,Han,han
 H0p3,hope,Hope,H0p,hop
+Hammelsprung,Hammel,hammel
 Hamoodi,Ham,Ham
 Han So1o,So1o,solo,Solo
 HealinFast,Healin,healin
@@ -101,6 +107,7 @@ itot,Itot
 Ivan Bitadikoff,IvanB,ivanb
 Jayyy,Jay,jay
 Kai MacAskin,Kai,kai
+Kailisien,Kail,kail
 Kalis Kleave,Kalis,kalis
 Kate Twomey,Kate,kate
 Katie McArn,Katie,katie
@@ -115,6 +122,7 @@ KingBoat,Boat,boat
 kingjames10,James10,james10
 Kingjames9,james9,James9
 KingofCamelot,Cam,cam
+Kingwatcher,King,king
 Kiser49er2,Kiser,kiser
 Kittenkicker,Kit,kit
 knight master,Knight,knight
@@ -127,6 +135,7 @@ LadyRowena,Lady,lady
 LazyScy,Lazy,lazy
 Leena Wynne,Lenna,lenna
 Legend Arrow,Arrow,arrow
+Legend Moka,Moka,moka
 Legoarcher,Lego,lego
 Lenna Wynne,Lenna,lenna
 Liam Goff,LiamG,liamg
@@ -156,7 +165,7 @@ MrFurious,Fur,fur
 MrSchmeaty,Meat,meat
 murf365,Murf,murf
 MutedGirl,Muted,muted
-n30p1r4tee,n30,N3o,n3o
+n30p1r4tee,n30,N3o,n3o,Neo,neo
 Narcisse,Nar,nar
 Naturaleza,Nat,nat
 NaturalHealer,Natural,natural
@@ -182,10 +191,12 @@ Princess Leia,Leia,leia
 Project7000,Project,project
 Pudinhara,Pud,pud
 Pumnel,Pum,pum
+Queeny Loulan,Queeny,queeny
 Radioactive,Radio,radio
 Radner,Rad,rad
 Rae Aeris,Rae,rae
 xRapidd,Rapd,rapid,Rapid
+RaulGonzalez,Raul,raul
 Rayyed,Ray,ray
 Razorback,Razor,razor
 Rebound22,Reb,reb,rebound,Rebound
@@ -200,6 +211,7 @@ RoseBlood,Rose,rose
 Rouge Killer,RougeK,rougeK
 rougueftw,rougue,rougue
 Rumix,rumix
+rummiku,rum,Rum
 RuskiBear,Ruski,ruski
 Sabronij,Sabr,sabr
 Sagittarius,Sag,sag
@@ -213,6 +225,7 @@ Shleefin,Shl,shl
 Silent Blades,Silent,silent
 Sir Slikster,Slik,slik
 Sir Timbledorf,Timb,timb
+SkyDancer,skydancer,Skydancer
 Sky Blaze,Sky,sky
 SlowBlade,Slow,slow
 Sneaky Dih,Dih,dih
@@ -233,11 +246,14 @@ sypha,Sypha
 SystemError,System,system
 Talyessin McLur,Tal,tal
 TemplarElite1,Temp,temp
+Terz,terz
+Thanatus,Than,than
 TheDogman,Dogman,dogman,Dog,dog
 Thefirstwitcher,Witcher,witcher
 TheHelp,Help,help
 TheMachine,Machine,machine
 Themagiic,Magiic,magiic
+Tiff,tiff
 Tinah,tinah
 ToxicRanger,Tox,tox
 Toxins,tox,toxins,Tox
@@ -259,6 +275,7 @@ Voria MacLaurin,V,v,Voria,voria
 VVarior,VVar,vvar
 VViz,vviz
 Wiggly Bob,Bob
+Wolzard,wolzard,wolz,Wolz
 WXW,wxw
 Wzrdruid,Wzr,wzr
 xFallenx,Fallen,fallen
