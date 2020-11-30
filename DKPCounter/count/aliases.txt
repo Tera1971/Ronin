@@ -44,7 +44,9 @@ BlueGlow,Glow,glow
 BlueRadiance,Blue,blue
 Bomber1,Bomb,bomb
 BraveXheart,Brave,brave
-Brea ODaw,Brea,brea
+Brae,brae
+Braera,braera
+Brea ODaw,BreaO,breao
 Bride OHallinan,Bride,bride
 Bulbasaur,Bulb,bulb
 Butcher629,Butch,butch,Butcher,butch
@@ -146,7 +148,8 @@ Lif3,Life,life
 LightningFrost,Frost,frost
 LilHomieTony,Homie,homie
 LongH3als,Long,long
-Luciifear,luciifear,luci
+Luciiifear,luciifear,luci
+LuckyT,luckyt
 lucyan,Lucy,lucy
 MABON TANK,Mabon,mabon
 macall,Macall
@@ -160,6 +163,7 @@ Mithrandir I,Mith,mith
 Mhhmmm,mhhmmm,Mmmhhmmmm,mmhhmm
 Moira Freyheart,Frey,frey
 Mordane,Mord,mord
+Motleyfoool,Motley,motley
 MrDuck,Duck,duck
 MrFurious,Fur,fur
 MrSchmeaty,Meat,meat
